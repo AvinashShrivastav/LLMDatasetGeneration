@@ -1,0 +1,67 @@
+{
+    "polar": {
+        "radialaxis": {
+            "visible": true,
+            "range": [
+                0,
+                30
+            ],
+            "title": {
+                "text": "Book Loan Count"
+            }
+        },
+        "angularaxis": {
+            "tickmode": "array",
+            "tickvals": [
+                "Fiction",
+                "Non-Fiction",
+                "Children's",
+                "Biography",
+                "History",
+                "Science",
+                "Technology",
+                "Arts"
+            ],
+            "ticktext": [
+                "Fiction",
+                "Non-Fiction",
+                "Children's",
+                "Biography",
+                "History",
+                "Science",
+                "Technology",
+                "Arts"
+            ]
+        }
+    },
+    "title": {
+        "text": "Library Book Loan Management - Relative Strength by Category",
+        "font": {
+            "size": 18
+        }
+    },
+    "annotations": [
+        {
+            "x": 0.5,
+            "y": 28,
+            "xref": "paper",
+            "yref": "paper",
+            "text": "High Outlier: Fiction Loans",
+            "showarrow": true,
+            "arrowhead": 7,
+            "ax": 0,
+            "ay": -40
+        },
+        {
+            "x": 0.7,
+            "y": 10,
+            "xref": "paper",
+            "yref": "paper",
+            "text": "Low Outlier: Biography Overdues",
+            "showarrow": true,
+            "arrowhead": 7,
+            "ax": 0,
+            "ay": 40
+        }
+    ]
+}

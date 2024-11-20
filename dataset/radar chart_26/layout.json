@@ -1,0 +1,63 @@
+{
+    "polar": {
+        "radialaxis": {
+            "visible": true,
+            "range": [
+                0,
+                25
+            ],
+            "title": {
+                "text": "Average Annual Tax Planning Score"
+            }
+        },
+        "angularaxis": {
+            "tickmode": "array",
+            "tickvals": [
+                "Tax Deductions",
+                "Investment Strategies",
+                "Retirement Planning",
+                "Estate Planning",
+                "Tax Credits"
+            ],
+            "ticktext": [
+                "Tax Deductions",
+                "Investment Strategies",
+                "Retirement Planning",
+                "Estate Planning",
+                "Tax Credits"
+            ],
+            "direction": "clockwise"
+        }
+    },
+    "title": {
+        "text": "Annual Tax Planning Trends: 5-Year Analysis",
+        "font": {
+            "size": 18
+        }
+    },
+    "legend": {
+        "orientation": "h",
+        "x": 0.5,
+        "y": -0.2,
+        "xanchor": "center"
+    },
+    "annotations": [
+        {
+            "x": 0.5,
+            "y": 0.9,
+            "xref": "paper",
+            "yref": "paper",
+            "text": "Note: The data suggests a trend of decreasing volatility in annual tax planning scores across all categories.",
+            "showarrow": false,
+            "font": {
+                "size": 12
+            }
+        }
+    ],
+    "margin": {
+        "l": 50,
+        "r": 50,
+        "b": 50,
+        "t": 100
+    }
+}

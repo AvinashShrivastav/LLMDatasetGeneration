@@ -1,0 +1,59 @@
+{
+    "title": {
+        "text": "Travel Itinerary Timeline - Price Trends",
+        "font": {
+            "size": 18
+        }
+    },
+    "xaxis": {
+        "title": "Date",
+        "tickangle": -45
+    },
+    "yaxis": {
+        "title": "Price"
+    },
+    "annotations": [
+        {
+            "x": "2024-09-10",
+            "y": 160,
+            "xref": "x",
+            "yref": "y",
+            "text": "High Outlier",
+            "showarrow": true,
+            "arrowhead": 7,
+            "ax": 0,
+            "ay": -40
+        },
+        {
+            "x": "2024-09-17",
+            "y": 70,
+            "xref": "x",
+            "yref": "y",
+            "text": "Low Outlier",
+            "showarrow": true,
+            "arrowhead": 7,
+            "ax": 0,
+            "ay": 40
+        }
+    ],
+    "margin": {
+        "l": 50,
+        "r": 50,
+        "b": 50,
+        "t": 100
+    },
+    "shapes": [
+        {
+            "type": "line",
+            "x0": "2024-09-10",
+            "y0": 150,
+            "x1": "2024-09-17",
+            "y1": 75,
+            "line": {
+                "color": "red",
+                "width": 2,
+                "dash": "dash"
+            }
+        }
+    ]
+}

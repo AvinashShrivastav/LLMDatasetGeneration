@@ -1,0 +1,46 @@
+{
+    "title": {
+        "text": "Household Inventory Management",
+        "font": {
+            "size": 18
+        }
+    },
+    "xaxis": {
+        "title": "Item Category",
+        "tickangle": -45,
+        "tickfont": {
+            "size": 10
+        }
+    },
+    "yaxis": {
+        "title": "Quantity",
+        "rangemode": "tozero"
+    },
+    "annotations": [
+        {
+            "x": "Gardening Equipment",
+            "y": 20,
+            "text": "Outlier: High Quantity",
+            "showarrow": true,
+            "arrowhead": 7,
+            "ax": 0,
+            "ay": -40
+        },
+        {
+            "x": "Outdoor Furniture",
+            "y": 2,
+            "text": "Outlier: Low Quantity",
+            "showarrow": true,
+            "arrowhead": 7,
+            "ax": 0,
+            "ay": 40
+        }
+    ],
+    "margin": {
+        "l": 100,
+        "r": 50,
+        "b": 100,
+        "t": 100
+    },
+    "showlegend": false
+}

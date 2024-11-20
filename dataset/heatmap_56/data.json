@@ -1,0 +1,177 @@
+[
+    {
+        "x": "Morning",
+        "y": "Monday",
+        "z": 1000
+    },
+    {
+        "x": "Morning",
+        "y": "Tuesday",
+        "z": 1200
+    },
+    {
+        "x": "Morning",
+        "y": "Wednesday",
+        "z": 1100
+    },
+    {
+        "x": "Morning",
+        "y": "Thursday",
+        "z": 1150
+    },
+    {
+        "x": "Morning",
+        "y": "Friday",
+        "z": 1050
+    },
+    {
+        "x": "Morning",
+        "y": "Saturday",
+        "z": 800
+    },
+    {
+        "x": "Morning",
+        "y": "Sunday",
+        "z": 700
+    },
+    {
+        "x": "Afternoon",
+        "y": "Monday",
+        "z": 1100
+    },
+    {
+        "x": "Afternoon",
+        "y": "Tuesday",
+        "z": 1300
+    },
+    {
+        "x": "Afternoon",
+        "y": "Wednesday",
+        "z": 1200
+    },
+    {
+        "x": "Afternoon",
+        "y": "Thursday",
+        "z": 1250
+    },
+    {
+        "x": "Afternoon",
+        "y": "Friday",
+        "z": 1150
+    },
+    {
+        "x": "Afternoon",
+        "y": "Saturday",
+        "z": 900
+    },
+    {
+        "x": "Afternoon",
+        "y": "Sunday",
+        "z": 800
+    },
+    {
+        "x": "Evening",
+        "y": "Monday",
+        "z": 800
+    },
+    {
+        "x": "Evening",
+        "y": "Tuesday",
+        "z": 900
+    },
+    {
+        "x": "Evening",
+        "y": "Wednesday",
+        "z": 850
+    },
+    {
+        "x": "Evening",
+        "y": "Thursday",
+        "z": 950
+    },
+    {
+        "x": "Evening",
+        "y": "Friday",
+        "z": 1000
+    },
+    {
+        "x": "Evening",
+        "y": "Saturday",
+        "z": 1100
+    },
+    {
+        "x": "Evening",
+        "y": "Sunday",
+        "z": 1000
+    },
+    {
+        "x": "Night",
+        "y": "Monday",
+        "z": 300
+    },
+    {
+        "x": "Night",
+        "y": "Tuesday",
+        "z": 350
+    },
+    {
+        "x": "Night",
+        "y": "Wednesday",
+        "z": 300
+    },
+    {
+        "x": "Night",
+        "y": "Thursday",
+        "z": 400
+    },
+    {
+        "x": "Night",
+        "y": "Friday",
+        "z": 300
+    },
+    {
+        "x": "Night",
+        "y": "Saturday",
+        "z": 200
+    },
+    {
+        "x": "Night",
+        "y": "Sunday",
+        "z": 150
+    },
+    {
+        "x": "Total",
+        "y": "Monday",
+        "z": 2200
+    },
+    {
+        "x": "Total",
+        "y": "Tuesday",
+        "z": 2450
+    },
+    {
+        "x": "Total",
+        "y": "Wednesday",
+        "z": 2250
+    },
+    {
+        "x": "Total",
+        "y": "Thursday",
+        "z": 2500
+    },
+    {
+        "x": "Total",
+        "y": "Friday",
+        "z": 2200
+    },
+    {
+        "x": "Total",
+        "y": "Saturday",
+        "z": 2000
+    },
+    {
+        "x": "Total",
+        "y": "Sunday",
+        "z": 1650
+    }
+]

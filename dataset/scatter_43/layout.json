@@ -1,0 +1,59 @@
+{
+    "title": {
+        "text": "Grocery Price Comparison Across Different Stores",
+        "font": {
+            "size": 20
+        }
+    },
+    "xaxis": {
+        "title": "Grocery Items",
+        "tickangle": -45
+    },
+    "yaxis": {
+        "title": "Price ($)"
+    },
+    "legend": {
+        "orientation": "h",
+        "yanchor": "bottom",
+        "xanchor": "center",
+        "x": 0.5
+    },
+    "annotations": [
+        {
+            "x": "Meat",
+            "y": 18.99,
+            "xref": "x",
+            "yref": "y",
+            "text": "Store E: Highest Meat Price",
+            "showarrow": true,
+            "arrowhead": 7,
+            "ax": 0,
+            "ay": -40
+        },
+        {
+            "x": "Milk",
+            "y": 2.75,
+            "xref": "x",
+            "yref": "y",
+            "text": "Store D: Lowest Milk Price",
+            "showarrow": true,
+            "arrowhead": 7,
+            "ax": 0,
+            "ay": 40
+        }
+    ],
+    "margin": {
+        "l": 100,
+        "r": 100,
+        "b": 100,
+        "t": 100
+    },
+    "showlegend": true,
+    "plot_bgcolor": "#f0f0f0",
+    "paper_bgcolor": "#f0f0f0",
+    "grid": {
+        "rows": 10,
+        "columns": 10,
+        "pattern": "dot"
+    }
+}

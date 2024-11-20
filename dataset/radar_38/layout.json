@@ -1,0 +1,66 @@
+{
+    "polar": {
+        "radialaxis": {
+            "visible": true,
+            "range": [
+                0,
+                2000
+            ],
+            "title": {
+                "text": "Expense (USD)"
+            }
+        },
+        "angularaxis": {
+            "tickmode": "array",
+            "tickvals": [
+                "Rent",
+                "Food",
+                "Transportation",
+                "Entertainment",
+                "Utilities",
+                "Healthcare",
+                "Other"
+            ],
+            "ticktext": [
+                "Rent",
+                "Food",
+                "Transportation",
+                "Entertainment",
+                "Utilities",
+                "Healthcare",
+                "Other"
+            ]
+        }
+    },
+    "title": {
+        "text": "Monthly Expense Distribution",
+        "font": {
+            "size": 18
+        }
+    },
+    "showlegend": true,
+    "annotations": [
+        {
+            "xref": "paper",
+            "yref": "paper",
+            "x": 0.5,
+            "y": 0.95,
+            "text": "Month 1 has a high expense for Transportation",
+            "showarrow": false,
+            "font": {
+                "size": 12
+            }
+        },
+        {
+            "xref": "paper",
+            "yref": "paper",
+            "x": 0.5,
+            "y": 0.9,
+            "text": "Month 2 has a significant outlier in Healthcare costs",
+            "showarrow": false,
+            "font": {
+                "size": 12
+            }
+        }
+    ]
+}

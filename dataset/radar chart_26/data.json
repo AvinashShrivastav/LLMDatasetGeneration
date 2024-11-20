@@ -1,0 +1,137 @@
+[
+    {
+        "type": "scatterpolar",
+        "r": [
+            15,
+            12,
+            10,
+            11,
+            14
+        ],
+        "theta": [
+            "Tax Deductions",
+            "Investment Strategies",
+            "Retirement Planning",
+            "Estate Planning",
+            "Tax Credits"
+        ],
+        "mode": "lines+markers",
+        "name": "Year 1",
+        "marker": {
+            "size": 8,
+            "color": "blue"
+        },
+        "line": {
+            "color": "blue",
+            "width": 2
+        }
+    },
+    {
+        "type": "scatterpolar",
+        "r": [
+            17,
+            15,
+            13,
+            12,
+            16
+        ],
+        "theta": [
+            "Tax Deductions",
+            "Investment Strategies",
+            "Retirement Planning",
+            "Estate Planning",
+            "Tax Credits"
+        ],
+        "mode": "lines+markers",
+        "name": "Year 2",
+        "marker": {
+            "size": 8,
+            "color": "green"
+        },
+        "line": {
+            "color": "green",
+            "width": 2
+        }
+    },
+    {
+        "type": "scatterpolar",
+        "r": [
+            19,
+            17,
+            15,
+            14,
+            18
+        ],
+        "theta": [
+            "Tax Deductions",
+            "Investment Strategies",
+            "Retirement Planning",
+            "Estate Planning",
+            "Tax Credits"
+        ],
+        "mode": "lines+markers",
+        "name": "Year 3",
+        "marker": {
+            "size": 8,
+            "color": "orange"
+        },
+        "line": {
+            "color": "orange",
+            "width": 2
+        }
+    },
+    {
+        "type": "scatterpolar",
+        "r": [
+            21,
+            19,
+            17,
+            16,
+            20
+        ],
+        "theta": [
+            "Tax Deductions",
+            "Investment Strategies",
+            "Retirement Planning",
+            "Estate Planning",
+            "Tax Credits"
+        ],
+        "mode": "lines+markers",
+        "name": "Year 4",
+        "marker": {
+            "size": 8,
+            "color": "red"
+        },
+        "line": {
+            "color": "red",
+            "width": 2
+        }
+    },
+    {
+        "type": "scatterpolar",
+        "r": [
+            20,
+            22,
+            19,
+            18,
+            22
+        ],
+        "theta": [
+            "Tax Deductions",
+            "Investment Strategies",
+            "Retirement Planning",
+            "Estate Planning",
+            "Tax Credits"
+        ],
+        "mode": "lines+markers",
+        "name": "Year 5",
+        "marker": {
+            "size": 8,
+            "color": "purple"
+        },
+        "line": {
+            "color": "purple",
+            "width": 2
+        }
+    }
+]

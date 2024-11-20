@@ -1,0 +1,68 @@
+{
+    "polar": {
+        "radialaxis": {
+            "visible": true,
+            "range": [
+                0,
+                45
+            ],
+            "title": {
+                "text": "Skill Level"
+            }
+        },
+        "angularaxis": {
+            "tickmode": "array",
+            "tickvals": [
+                "Problem Solving",
+                "Communication",
+                "Teamwork",
+                "Time Management",
+                "Adaptability",
+                "Creativity",
+                "Leadership",
+                "Decision Making",
+                "Critical Thinking",
+                "Negotiation",
+                "Conflict Resolution"
+            ],
+            "ticktext": [
+                "Problem Solving",
+                "Communication",
+                "Teamwork",
+                "Time Management",
+                "Adaptability",
+                "Creativity",
+                "Leadership",
+                "Decision Making",
+                "Critical Thinking",
+                "Negotiation",
+                "Conflict Resolution"
+            ]
+        }
+    },
+    "title": {
+        "text": "New Skill Acquisition Progress Over Time",
+        "font": {
+            "size": 18
+        }
+    },
+    "legend": {
+        "orientation": "h",
+        "x": 0.5,
+        "y": 1.1,
+        "xanchor": "center"
+    },
+    "annotations": [
+        {
+            "x": "Creativity",
+            "y": 42,
+            "xref": "paper",
+            "yref": "paper",
+            "text": "Outlier: Significant Jump",
+            "showarrow": true,
+            "arrowhead": 7,
+            "ax": 0,
+            "ay": -40
+        }
+    ]
+}

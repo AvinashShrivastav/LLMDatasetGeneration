@@ -1,0 +1,53 @@
+{
+    "title": {
+        "text": "Daily Productivity Levels Funnel Chart",
+        "font": {
+            "size": 18
+        }
+    },
+    "xaxis": {
+        "title": "Number of Tasks",
+        "range": [
+            0,
+            120
+        ],
+        "tickmode": "linear",
+        "tick0": 0,
+        "dtick": 20
+    },
+    "yaxis": {
+        "title": "Stage of Task Completion",
+        "autorange": "reversed"
+    },
+    "annotations": [
+        {
+            "x": 75,
+            "y": "Task Planning",
+            "xref": "x",
+            "yref": "y",
+            "text": "Significant Drop",
+            "showarrow": true,
+            "arrowhead": 7,
+            "ax": 0,
+            "ay": -40
+        },
+        {
+            "x": 20,
+            "y": "Completion",
+            "xref": "x",
+            "yref": "y",
+            "text": "Unexpected Outlier",
+            "showarrow": true,
+            "arrowhead": 7,
+            "ax": 0,
+            "ay": -40
+        }
+    ],
+    "margin": {
+        "l": 100,
+        "r": 100,
+        "b": 100,
+        "t": 100
+    },
+    "bargap": 0.3
+}

@@ -1,0 +1,57 @@
+{
+    "polar": {
+        "radialaxis": {
+            "visible": true,
+            "range": [
+                0,
+                30
+            ],
+            "title": {
+                "text": "Time Spent (Hours)"
+            }
+        },
+        "angularaxis": {
+            "tickmode": "array",
+            "tickvals": [
+                "Laundry",
+                "Dishes",
+                "Cleaning",
+                "Grocery Shopping",
+                "Cooking"
+            ],
+            "ticktext": [
+                "Laundry",
+                "Dishes",
+                "Cleaning",
+                "Grocery Shopping",
+                "Cooking"
+            ]
+        }
+    },
+    "title": {
+        "text": "Household Chore Distribution Across Different Individuals",
+        "font": {
+            "size": 18
+        }
+    },
+    "annotations": [
+        {
+            "x": 0.5,
+            "y": 1.1,
+            "xref": "paper",
+            "yref": "paper",
+            "text": "Person C spends significantly more time on Laundry than others.",
+            "showarrow": false,
+            "font": {
+                "size": 12
+            }
+        }
+    ],
+    "legend": {
+        "orientation": "h",
+        "x": 0.5,
+        "y": -0.2,
+        "xanchor": "center",
+        "yanchor": "bottom"
+    }
+}

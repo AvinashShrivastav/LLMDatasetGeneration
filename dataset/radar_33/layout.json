@@ -1,0 +1,62 @@
+{
+    "polar": {
+        "radialaxis": {
+            "visible": true,
+            "range": [
+                0,
+                30
+            ],
+            "title": {
+                "text": "Days Remaining"
+            }
+        },
+        "angularaxis": {
+            "tickmode": "array",
+            "tickvals": [
+                "Task 1",
+                "Task 2",
+                "Task 3",
+                "Task 4",
+                "Task 5",
+                "Task 6",
+                "Task 7"
+            ],
+            "ticktext": [
+                "Task 1",
+                "Task 2",
+                "Task 3",
+                "Task 4",
+                "Task 5",
+                "Task 6",
+                "Task 7"
+            ]
+        }
+    },
+    "title": {
+        "text": "Project Deadline Countdown",
+        "font": {
+            "size": 18
+        }
+    },
+    "showlegend": true,
+    "annotations": [
+        {
+            "x": "Task 2",
+            "y": 15,
+            "text": "Task 2 is significantly behind schedule",
+            "showarrow": true,
+            "arrowhead": 7,
+            "ax": 0,
+            "ay": -40
+        },
+        {
+            "x": "Task 6",
+            "y": 25,
+            "text": "Task 6 is ahead of schedule",
+            "showarrow": true,
+            "arrowhead": 7,
+            "ax": 0,
+            "ay": 40
+        }
+    ]
+}

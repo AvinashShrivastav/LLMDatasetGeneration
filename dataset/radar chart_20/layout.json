@@ -1,0 +1,81 @@
+{
+    "polar": {
+        "radialaxis": {
+            "visible": true,
+            "range": [
+                0,
+                20000
+            ],
+            "title": {
+                "text": "Annual Amount (USD)"
+            }
+        },
+        "angularaxis": {
+            "tickmode": "array",
+            "tickvals": [
+                "Housing",
+                "Food",
+                "Transportation",
+                "Healthcare",
+                "Entertainment",
+                "Education",
+                "Utilities",
+                "Personal",
+                "Travel",
+                "Clothing",
+                "Savings",
+                "Other"
+            ],
+            "ticktext": [
+                "Housing",
+                "Food",
+                "Transportation",
+                "Healthcare",
+                "Entertainment",
+                "Education",
+                "Utilities",
+                "Personal",
+                "Travel",
+                "Clothing",
+                "Savings",
+                "Other"
+            ]
+        }
+    },
+    "title": {
+        "text": "Annual Income vs Expense Breakdown",
+        "font": {
+            "size": 18
+        }
+    },
+    "legend": {
+        "x": 0.8,
+        "y": 0.8
+    },
+    "annotations": [
+        {
+            "x": "Housing",
+            "y": 18000,
+            "xref": "paper",
+            "yref": "y",
+            "text": "Housing is the biggest expense",
+            "showarrow": true,
+            "arrowhead": 7
+        },
+        {
+            "x": "Travel",
+            "y": 9000,
+            "xref": "paper",
+            "yref": "y",
+            "text": "Outlier: Low Travel Expense",
+            "showarrow": true,
+            "arrowhead": 7
+        }
+    ],
+    "margin": {
+        "l": 50,
+        "r": 50,
+        "b": 50,
+        "t": 100
+    }
+}

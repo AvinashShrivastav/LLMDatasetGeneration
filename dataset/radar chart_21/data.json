@@ -1,0 +1,134 @@
+[
+    {
+        "type": "scatterpolar",
+        "r": [
+            10,
+            15,
+            13,
+            17,
+            20,
+            12,
+            18,
+            16
+        ],
+        "theta": [
+            "Gift Wrapping",
+            "Gift Cards",
+            "Personalized Gifts",
+            "Experiences",
+            "Home Decor",
+            "Electronics",
+            "Clothing & Accessories",
+            "Subscription Boxes"
+        ],
+        "mode": "lines+markers",
+        "name": "Early Adopters",
+        "marker": {
+            "size": 8,
+            "color": "blue"
+        },
+        "line": {
+            "color": "blue",
+            "width": 2
+        }
+    },
+    {
+        "type": "scatterpolar",
+        "r": [
+            12,
+            18,
+            16,
+            14,
+            22,
+            15,
+            20,
+            25
+        ],
+        "theta": [
+            "Gift Wrapping",
+            "Gift Cards",
+            "Personalized Gifts",
+            "Experiences",
+            "Home Decor",
+            "Electronics",
+            "Clothing & Accessories",
+            "Subscription Boxes"
+        ],
+        "mode": "lines+markers",
+        "name": "Early Majority",
+        "marker": {
+            "size": 8,
+            "color": "red"
+        },
+        "line": {
+            "color": "red",
+            "width": 2
+        }
+    },
+    {
+        "type": "scatterpolar",
+        "r": [
+            15,
+            20,
+            18,
+            17,
+            25,
+            18,
+            22,
+            28
+        ],
+        "theta": [
+            "Gift Wrapping",
+            "Gift Cards",
+            "Personalized Gifts",
+            "Experiences",
+            "Home Decor",
+            "Electronics",
+            "Clothing & Accessories",
+            "Subscription Boxes"
+        ],
+        "mode": "lines+markers",
+        "name": "Late Majority",
+        "marker": {
+            "size": 8,
+            "color": "green"
+        },
+        "line": {
+            "color": "green",
+            "width": 2
+        }
+    },
+    {
+        "type": "scatterpolar",
+        "r": [
+            18,
+            25,
+            22,
+            20,
+            30,
+            22,
+            28,
+            35
+        ],
+        "theta": [
+            "Gift Wrapping",
+            "Gift Cards",
+            "Personalized Gifts",
+            "Experiences",
+            "Home Decor",
+            "Electronics",
+            "Clothing & Accessories",
+            "Subscription Boxes"
+        ],
+        "mode": "lines+markers",
+        "name": "Laggards",
+        "marker": {
+            "size": 8,
+            "color": "purple"
+        },
+        "line": {
+            "color": "purple",
+            "width": 2
+        }
+    }
+]

@@ -1,0 +1,317 @@
+[
+    {
+        "x": "Monday",
+        "y": "Day 1",
+        "z": 1.5
+    },
+    {
+        "x": "Tuesday",
+        "y": "Day 1",
+        "z": 2.1
+    },
+    {
+        "x": "Wednesday",
+        "y": "Day 1",
+        "z": 1.8
+    },
+    {
+        "x": "Thursday",
+        "y": "Day 1",
+        "z": 2.3
+    },
+    {
+        "x": "Friday",
+        "y": "Day 1",
+        "z": 2.0
+    },
+    {
+        "x": "Saturday",
+        "y": "Day 1",
+        "z": 1.6
+    },
+    {
+        "x": "Sunday",
+        "y": "Day 1",
+        "z": 1.4
+    },
+    {
+        "x": "Monday",
+        "y": "Day 2",
+        "z": 1.9
+    },
+    {
+        "x": "Tuesday",
+        "y": "Day 2",
+        "z": 2.5
+    },
+    {
+        "x": "Wednesday",
+        "y": "Day 2",
+        "z": 2.2
+    },
+    {
+        "x": "Thursday",
+        "y": "Day 2",
+        "z": 2.8
+    },
+    {
+        "x": "Friday",
+        "y": "Day 2",
+        "z": 2.4
+    },
+    {
+        "x": "Saturday",
+        "y": "Day 2",
+        "z": 1.8
+    },
+    {
+        "x": "Sunday",
+        "y": "Day 2",
+        "z": 1.6
+    },
+    {
+        "x": "Monday",
+        "y": "Day 3",
+        "z": 2.0
+    },
+    {
+        "x": "Tuesday",
+        "y": "Day 3",
+        "z": 2.6
+    },
+    {
+        "x": "Wednesday",
+        "y": "Day 3",
+        "z": 2.3
+    },
+    {
+        "x": "Thursday",
+        "y": "Day 3",
+        "z": 3.1
+    },
+    {
+        "x": "Friday",
+        "y": "Day 3",
+        "z": 2.7
+    },
+    {
+        "x": "Saturday",
+        "y": "Day 3",
+        "z": 2.1
+    },
+    {
+        "x": "Sunday",
+        "y": "Day 3",
+        "z": 1.9
+    },
+    {
+        "x": "Monday",
+        "y": "Day 4",
+        "z": 2.3
+    },
+    {
+        "x": "Tuesday",
+        "y": "Day 4",
+        "z": 2.8
+    },
+    {
+        "x": "Wednesday",
+        "y": "Day 4",
+        "z": 2.6
+    },
+    {
+        "x": "Thursday",
+        "y": "Day 4",
+        "z": 3.4
+    },
+    {
+        "x": "Friday",
+        "y": "Day 4",
+        "z": 2.9
+    },
+    {
+        "x": "Saturday",
+        "y": "Day 4",
+        "z": 2.3
+    },
+    {
+        "x": "Sunday",
+        "y": "Day 4",
+        "z": 2.0
+    },
+    {
+        "x": "Monday",
+        "y": "Day 5",
+        "z": 2.4
+    },
+    {
+        "x": "Tuesday",
+        "y": "Day 5",
+        "z": 3.0
+    },
+    {
+        "x": "Wednesday",
+        "y": "Day 5",
+        "z": 2.7
+    },
+    {
+        "x": "Thursday",
+        "y": "Day 5",
+        "z": 3.6
+    },
+    {
+        "x": "Friday",
+        "y": "Day 5",
+        "z": 3.1
+    },
+    {
+        "x": "Saturday",
+        "y": "Day 5",
+        "z": 2.5
+    },
+    {
+        "x": "Sunday",
+        "y": "Day 5",
+        "z": 2.2
+    },
+    {
+        "x": "Monday",
+        "y": "Day 6",
+        "z": 2.6
+    },
+    {
+        "x": "Tuesday",
+        "y": "Day 6",
+        "z": 3.3
+    },
+    {
+        "x": "Wednesday",
+        "y": "Day 6",
+        "z": 3.0
+    },
+    {
+        "x": "Thursday",
+        "y": "Day 6",
+        "z": 3.8
+    },
+    {
+        "x": "Friday",
+        "y": "Day 6",
+        "z": 3.4
+    },
+    {
+        "x": "Saturday",
+        "y": "Day 6",
+        "z": 2.7
+    },
+    {
+        "x": "Sunday",
+        "y": "Day 6",
+        "z": 2.4
+    },
+    {
+        "x": "Monday",
+        "y": "Day 7",
+        "z": 1.5
+    },
+    {
+        "x": "Tuesday",
+        "y": "Day 7",
+        "z": 2.0
+    },
+    {
+        "x": "Wednesday",
+        "y": "Day 7",
+        "z": 1.8
+    },
+    {
+        "x": "Thursday",
+        "y": "Day 7",
+        "z": 2.4
+    },
+    {
+        "x": "Friday",
+        "y": "Day 7",
+        "z": 2.2
+    },
+    {
+        "x": "Saturday",
+        "y": "Day 7",
+        "z": 1.7
+    },
+    {
+        "x": "Sunday",
+        "y": "Day 7",
+        "z": 1.5
+    },
+    {
+        "x": "Monday",
+        "y": "Day 8",
+        "z": 1.3
+    },
+    {
+        "x": "Tuesday",
+        "y": "Day 8",
+        "z": 1.8
+    },
+    {
+        "x": "Wednesday",
+        "y": "Day 8",
+        "z": 1.6
+    },
+    {
+        "x": "Thursday",
+        "y": "Day 8",
+        "z": 2.2
+    },
+    {
+        "x": "Friday",
+        "y": "Day 8",
+        "z": 2.0
+    },
+    {
+        "x": "Saturday",
+        "y": "Day 8",
+        "z": 1.5
+    },
+    {
+        "x": "Sunday",
+        "y": "Day 8",
+        "z": 1.3
+    },
+    {
+        "x": "Monday",
+        "y": "Day 9",
+        "z": 1.7
+    },
+    {
+        "x": "Tuesday",
+        "y": "Day 9",
+        "z": 2.3
+    },
+    {
+        "x": "Wednesday",
+        "y": "Day 9",
+        "z": 2.0
+    },
+    {
+        "x": "Thursday",
+        "y": "Day 9",
+        "z": 2.6
+    },
+    {
+        "x": "Friday",
+        "y": "Day 9",
+        "z": 2.4
+    },
+    {
+        "x": "Saturday",
+        "y": "Day 9",
+        "z": 1.9
+    },
+    {
+        "x": "Sunday",
+        "y": "Day 9",
+        "z": 1.7
+    }
+]

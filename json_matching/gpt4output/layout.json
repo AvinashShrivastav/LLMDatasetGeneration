@@ -1,0 +1,22 @@
+{
+  "polar": {
+    "radialaxis": {
+      "visible": true,
+      "range": [0, 35],
+      "title": {
+        "text": "Progress Score"
+      }
+    },
+    "angularaxis": {
+      "tickmode": "array",
+      "tickvals": ["Nutrition", "Sleep", "Hydration", "Endurance", "Flexibility", "Strength", "Cardio", "Mental Health"],
+      "ticktext": ["Nutrition", "Sleep", "Hydration", "Endurance", "Flexibility", "Strength", "Cardio", "Mental Health"]
+    }
+  },
+  "title": {
+    "text": "Exercise Routine Effectiveness Over Four Weeks",
+    "font": {
+      "size": 18
+    }
+  }
+}

@@ -1,0 +1,90 @@
+Comparing D:/Dataset Creation/json_matching/gpt4output\config.json and D:/Dataset Creation/json_matching/ground_truth_radar chart\config.json
+DeepDiff:
+{}
+
+Exact Match:
+True
+
+Key Match Percentage:
+100.0
+
+Value Match Percentage:
+100.0
+
+Structural Similarity Percentage:
+100.0
+
+Cosine Similarity Percentage:
+99.99999999999999
+
+Numerical Difference:
+0.0
+
+Levenshtein Similarity Percentage:
+100.0
+
+Jaccard Similarity Percentage:
+100.0
+
+__________________________________________________________
+
+Comparing D:/Dataset Creation/json_matching/gpt4output\layout.json and D:/Dataset Creation/json_matching/ground_truth_radar chart\layout.json
+DeepDiff:
+{'dictionary_item_added': [<root['legend'] t1:not present, t2:{'x': 0.8, '...}>, <root['annotations'] t1:not present, t2:[{'x': 'Card...]>]}
+
+Exact Match:
+False
+
+Key Match Percentage:
+50.0
+
+Value Match Percentage:
+50.0
+
+Structural Similarity Percentage:
+83.33333333333334
+
+Cosine Similarity Percentage:
+80.81448791123151
+
+Numerical Difference:
+0.0
+
+Levenshtein Similarity Percentage:
+48.50843060959793
+
+Jaccard Similarity Percentage:
+50.0
+
+__________________________________________________________
+
+Comparing D:/Dataset Creation/json_matching/gpt4output\data.json and D:/Dataset Creation/json_matching/ground_truth_radar chart\data.json
+DeepDiff:
+{'iterable_item_removed': [<root[0] t1:{'type': 'sc...}, t2:not present>, <root[1] t1:{'type': 'sc...}, t2:not present>, <root[2] t1:{'type': 'sc...}, t2:not present>, <root[3] t1:{'type': 'sc...}, t2:not present>], 'iterable_item_added': [<root[0] t1:not present, t2:{'type': 'sc...}>, <root[1] t1:not present, t2:{'type': 'sc...}>, <root[2] t1:not present, t2:{'type': 'sc...}>, <root[3] t1:not present, t2:{'type': 'sc...}>]}
+
+Exact Match:
+False
+
+Key Match Percentage:
+39.28571428571428
+
+Value Match Percentage:
+0.0
+
+Structural Similarity Percentage:
+87.5
+
+Cosine Similarity Percentage:
+88.7594985766066
+
+Numerical Difference:
+0.0
+
+Levenshtein Similarity Percentage:
+80.73089700996677
+
+Jaccard Similarity Percentage:
+0.0
+
+__________________________________________________________
+

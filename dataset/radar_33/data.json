@@ -1,0 +1,64 @@
+[
+    {
+        "type": "scatterpolar",
+        "r": [
+            20,
+            22,
+            21,
+            23,
+            24,
+            25,
+            22
+        ],
+        "theta": [
+            "Task 1",
+            "Task 2",
+            "Task 3",
+            "Task 4",
+            "Task 5",
+            "Task 6",
+            "Task 7"
+        ],
+        "mode": "lines+markers",
+        "name": "Progress",
+        "marker": {
+            "size": 8,
+            "color": "blue"
+        },
+        "line": {
+            "color": "blue",
+            "width": 2
+        }
+    },
+    {
+        "type": "scatterpolar",
+        "r": [
+            18,
+            15,
+            17,
+            16,
+            19,
+            21,
+            14
+        ],
+        "theta": [
+            "Task 1",
+            "Task 2",
+            "Task 3",
+            "Task 4",
+            "Task 5",
+            "Task 6",
+            "Task 7"
+        ],
+        "mode": "lines+markers",
+        "name": "Estimated",
+        "marker": {
+            "size": 8,
+            "color": "red"
+        },
+        "line": {
+            "color": "red",
+            "width": 2
+        }
+    }
+]

@@ -1,0 +1,55 @@
+{
+    "title": {
+        "text": "Daily Water Intake Heatmap",
+        "font": {
+            "size": 18
+        }
+    },
+    "xaxis": {
+        "title": "Time Period",
+        "tickangle": -45
+    },
+    "yaxis": {
+        "title": "Week"
+    },
+    "coloraxis": {
+        "colorbar": {
+            "title": "Liters"
+        }
+    },
+    "annotations": [
+        {
+            "x": "Week",
+            "y": "Week 5",
+            "xref": "x",
+            "yref": "y",
+            "text": "Slight dip in water intake",
+            "showarrow": true,
+            "arrowhead": 7,
+            "ax": 0,
+            "ay": -40
+        },
+        {
+            "x": "Month",
+            "y": "Week 6",
+            "xref": "x",
+            "yref": "y",
+            "text": "Increased intake during summer",
+            "showarrow": true,
+            "arrowhead": 7,
+            "ax": 0,
+            "ay": -40
+        },
+        {
+            "x": "Year",
+            "y": "Week 9",
+            "xref": "x",
+            "yref": "y",
+            "text": "Potential outlier - very low intake",
+            "showarrow": true,
+            "arrowhead": 7,
+            "ax": 0,
+            "ay": -40
+        }
+    ]
+}

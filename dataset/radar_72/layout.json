@@ -1,0 +1,54 @@
+{
+    "polar": {
+        "radialaxis": {
+            "visible": true,
+            "range": [
+                650,
+                770
+            ],
+            "title": {
+                "text": "Credit Score"
+            }
+        },
+        "angularaxis": {
+            "tickmode": "array",
+            "tickvals": [
+                "January",
+                "February",
+                "March",
+                "April",
+                "May",
+                "June",
+                "July"
+            ],
+            "ticktext": [
+                "January",
+                "February",
+                "March",
+                "April",
+                "May",
+                "June",
+                "July"
+            ]
+        }
+    },
+    "title": {
+        "text": "Monthly Credit Score Tracking",
+        "font": {
+            "size": 18
+        }
+    },
+    "annotations": [
+        {
+            "x": "April",
+            "y": 690,
+            "xref": "x",
+            "yref": "y",
+            "text": "Sudden Drop",
+            "showarrow": true,
+            "arrowhead": 7,
+            "ax": 0,
+            "ay": -40
+        }
+    ]
+}

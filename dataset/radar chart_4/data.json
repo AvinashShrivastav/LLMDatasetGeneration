@@ -1,0 +1,422 @@
+[
+    {
+        "x": "Saturday",
+        "y": "Morning",
+        "z": 2
+    },
+    {
+        "x": "Saturday",
+        "y": "Afternoon",
+        "z": 10
+    },
+    {
+        "x": "Saturday",
+        "y": "Evening",
+        "z": 15
+    },
+    {
+        "x": "Saturday",
+        "y": "Night",
+        "z": 25
+    },
+    {
+        "x": "Sunday",
+        "y": "Morning",
+        "z": 3
+    },
+    {
+        "x": "Sunday",
+        "y": "Afternoon",
+        "z": 12
+    },
+    {
+        "x": "Sunday",
+        "y": "Evening",
+        "z": 18
+    },
+    {
+        "x": "Sunday",
+        "y": "Night",
+        "z": 30
+    },
+    {
+        "x": "Monday",
+        "y": "Morning",
+        "z": 1
+    },
+    {
+        "x": "Monday",
+        "y": "Afternoon",
+        "z": 5
+    },
+    {
+        "x": "Monday",
+        "y": "Evening",
+        "z": 8
+    },
+    {
+        "x": "Monday",
+        "y": "Night",
+        "z": 12
+    },
+    {
+        "x": "Tuesday",
+        "y": "Morning",
+        "z": 1
+    },
+    {
+        "x": "Tuesday",
+        "y": "Afternoon",
+        "z": 4
+    },
+    {
+        "x": "Tuesday",
+        "y": "Evening",
+        "z": 7
+    },
+    {
+        "x": "Tuesday",
+        "y": "Night",
+        "z": 10
+    },
+    {
+        "x": "Wednesday",
+        "y": "Morning",
+        "z": 1
+    },
+    {
+        "x": "Wednesday",
+        "y": "Afternoon",
+        "z": 3
+    },
+    {
+        "x": "Wednesday",
+        "y": "Evening",
+        "z": 6
+    },
+    {
+        "x": "Wednesday",
+        "y": "Night",
+        "z": 9
+    },
+    {
+        "x": "Thursday",
+        "y": "Morning",
+        "z": 1
+    },
+    {
+        "x": "Thursday",
+        "y": "Afternoon",
+        "z": 2
+    },
+    {
+        "x": "Thursday",
+        "y": "Evening",
+        "z": 5
+    },
+    {
+        "x": "Thursday",
+        "y": "Night",
+        "z": 8
+    },
+    {
+        "x": "Friday",
+        "y": "Morning",
+        "z": 1
+    },
+    {
+        "x": "Friday",
+        "y": "Afternoon",
+        "z": 3
+    },
+    {
+        "x": "Friday",
+        "y": "Evening",
+        "z": 6
+    },
+    {
+        "x": "Friday",
+        "y": "Night",
+        "z": 10
+    },
+    {
+        "x": "Movie",
+        "y": "Saturday",
+        "z": 15
+    },
+    {
+        "x": "Movie",
+        "y": "Sunday",
+        "z": 18
+    },
+    {
+        "x": "Movie",
+        "y": "Monday",
+        "z": 1
+    },
+    {
+        "x": "Movie",
+        "y": "Tuesday",
+        "z": 1
+    },
+    {
+        "x": "Movie",
+        "y": "Wednesday",
+        "z": 1
+    },
+    {
+        "x": "Movie",
+        "y": "Thursday",
+        "z": 1
+    },
+    {
+        "x": "Movie",
+        "y": "Friday",
+        "z": 1
+    },
+    {
+        "x": "Restaurant",
+        "y": "Saturday",
+        "z": 20
+    },
+    {
+        "x": "Restaurant",
+        "y": "Sunday",
+        "z": 25
+    },
+    {
+        "x": "Restaurant",
+        "y": "Monday",
+        "z": 1
+    },
+    {
+        "x": "Restaurant",
+        "y": "Tuesday",
+        "z": 1
+    },
+    {
+        "x": "Restaurant",
+        "y": "Wednesday",
+        "z": 1
+    },
+    {
+        "x": "Restaurant",
+        "y": "Thursday",
+        "z": 1
+    },
+    {
+        "x": "Restaurant",
+        "y": "Friday",
+        "z": 1
+    },
+    {
+        "x": "Shopping",
+        "y": "Saturday",
+        "z": 10
+    },
+    {
+        "x": "Shopping",
+        "y": "Sunday",
+        "z": 12
+    },
+    {
+        "x": "Shopping",
+        "y": "Monday",
+        "z": 1
+    },
+    {
+        "x": "Shopping",
+        "y": "Tuesday",
+        "z": 1
+    },
+    {
+        "x": "Shopping",
+        "y": "Wednesday",
+        "z": 1
+    },
+    {
+        "x": "Shopping",
+        "y": "Thursday",
+        "z": 1
+    },
+    {
+        "x": "Shopping",
+        "y": "Friday",
+        "z": 1
+    },
+    {
+        "x": "Park",
+        "y": "Saturday",
+        "z": 5
+    },
+    {
+        "x": "Park",
+        "y": "Sunday",
+        "z": 8
+    },
+    {
+        "x": "Park",
+        "y": "Monday",
+        "z": 1
+    },
+    {
+        "x": "Park",
+        "y": "Tuesday",
+        "z": 1
+    },
+    {
+        "x": "Park",
+        "y": "Wednesday",
+        "z": 1
+    },
+    {
+        "x": "Park",
+        "y": "Thursday",
+        "z": 1
+    },
+    {
+        "x": "Park",
+        "y": "Friday",
+        "z": 1
+    },
+    {
+        "x": "Sports",
+        "y": "Saturday",
+        "z": 12
+    },
+    {
+        "x": "Sports",
+        "y": "Sunday",
+        "z": 15
+    },
+    {
+        "x": "Sports",
+        "y": "Monday",
+        "z": 1
+    },
+    {
+        "x": "Sports",
+        "y": "Tuesday",
+        "z": 1
+    },
+    {
+        "x": "Sports",
+        "y": "Wednesday",
+        "z": 1
+    },
+    {
+        "x": "Sports",
+        "y": "Thursday",
+        "z": 1
+    },
+    {
+        "x": "Sports",
+        "y": "Friday",
+        "z": 1
+    },
+    {
+        "x": "Museum",
+        "y": "Saturday",
+        "z": 3
+    },
+    {
+        "x": "Museum",
+        "y": "Sunday",
+        "z": 5
+    },
+    {
+        "x": "Museum",
+        "y": "Monday",
+        "z": 1
+    },
+    {
+        "x": "Museum",
+        "y": "Tuesday",
+        "z": 1
+    },
+    {
+        "x": "Museum",
+        "y": "Wednesday",
+        "z": 1
+    },
+    {
+        "x": "Museum",
+        "y": "Thursday",
+        "z": 1
+    },
+    {
+        "x": "Museum",
+        "y": "Friday",
+        "z": 1
+    },
+    {
+        "x": "Concert",
+        "y": "Saturday",
+        "z": 8
+    },
+    {
+        "x": "Concert",
+        "y": "Sunday",
+        "z": 10
+    },
+    {
+        "x": "Concert",
+        "y": "Monday",
+        "z": 1
+    },
+    {
+        "x": "Concert",
+        "y": "Tuesday",
+        "z": 1
+    },
+    {
+        "x": "Concert",
+        "y": "Wednesday",
+        "z": 1
+    },
+    {
+        "x": "Concert",
+        "y": "Thursday",
+        "z": 1
+    },
+    {
+        "x": "Concert",
+        "y": "Friday",
+        "z": 1
+    },
+    {
+        "x": "Relax",
+        "y": "Saturday",
+        "z": 10
+    },
+    {
+        "x": "Relax",
+        "y": "Sunday",
+        "z": 12
+    },
+    {
+        "x": "Relax",
+        "y": "Monday",
+        "z": 1
+    },
+    {
+        "x": "Relax",
+        "y": "Tuesday",
+        "z": 1
+    },
+    {
+        "x": "Relax",
+        "y": "Wednesday",
+        "z": 1
+    },
+    {
+        "x": "Relax",
+        "y": "Thursday",
+        "z": 1
+    },
+    {
+        "x": "Relax",
+        "y": "Friday",
+        "z": 1
+    }
+]

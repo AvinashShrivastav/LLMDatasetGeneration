@@ -1,0 +1,52 @@
+{
+    "polar": {
+        "radialaxis": {
+            "visible": true,
+            "range": [
+                0,
+                35
+            ],
+            "title": {
+                "text": "Quantity"
+            }
+        },
+        "angularaxis": {
+            "tickmode": "array",
+            "tickvals": [
+                "Gifts",
+                "Decorations",
+                "Food",
+                "Drinks",
+                "Games",
+                "Entertainment"
+            ],
+            "ticktext": [
+                "Gifts",
+                "Decorations",
+                "Food",
+                "Drinks",
+                "Games",
+                "Entertainment"
+            ]
+        }
+    },
+    "title": {
+        "text": "Gift Shopping List Analysis",
+        "font": {
+            "size": 18
+        }
+    },
+    "annotations": [
+        {
+            "x": 0.2,
+            "y": 0.8,
+            "xref": "paper",
+            "yref": "paper",
+            "text": "Oversold: Drinks",
+            "showarrow": true,
+            "arrowhead": 7,
+            "ax": 0,
+            "ay": -40
+        }
+    ]
+}

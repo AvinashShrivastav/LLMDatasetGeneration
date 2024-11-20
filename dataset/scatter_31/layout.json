@@ -1,0 +1,52 @@
+{
+    "title": {
+        "text": "Weekly Commute Time and Traffic Delays",
+        "font": {
+            "size": 18
+        }
+    },
+    "xaxis": {
+        "title": "Day of the Week",
+        "tickangle": -45
+    },
+    "yaxis": {
+        "title": "Time (Minutes)"
+    },
+    "legend": {
+        "orientation": "h",
+        "x": 0.5,
+        "y": 1.1,
+        "xanchor": "center"
+    },
+    "annotations": [
+        {
+            "x": "Friday",
+            "y": 80,
+            "xref": "x",
+            "yref": "y",
+            "text": "Outlier - Unusually long commute",
+            "showarrow": true,
+            "arrowhead": 7,
+            "ax": 0,
+            "ay": -40
+        },
+        {
+            "x": "Sunday",
+            "y": 55,
+            "xref": "x",
+            "yref": "y",
+            "text": "Outlier - Short commute due to weekend traffic",
+            "showarrow": true,
+            "arrowhead": 7,
+            "ax": 0,
+            "ay": 40
+        }
+    ],
+    "margin": {
+        "l": 50,
+        "r": 50,
+        "b": 100,
+        "t": 100,
+        "pad": 4
+    }
+}

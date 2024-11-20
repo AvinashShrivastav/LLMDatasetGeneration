@@ -1,0 +1,4 @@
+Week,Sleep Duration (Hours),Sleep Quality (Score),Wake-up Time (Hour),Bedtime (Hour),Stress Level (Score),Caffeine Intake (mg),Exercise Time (Minutes),Screen Time (Hours),Sleep Latency (Minutes),Sleep Efficiency (%),REM Sleep (Minutes),Deep Sleep (Minutes)
+Week 1,6,7,8,9,10,11,12,11,10,9,8,7
+Week 2,7,8,9,10,9,8,7,6,5,4,3,2
+Week 3,8,9,10,11,12,11,10,9,8,7,6

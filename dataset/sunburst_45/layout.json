@@ -1,0 +1,39 @@
+{
+    "title": {
+        "text": "Social Engagement Calendar - Sunburst Chart",
+        "font": {
+            "size": 20
+        }
+    },
+    "margin": {
+        "l": 0,
+        "r": 0,
+        "b": 0,
+        "t": 50
+    },
+    "showlegend": true,
+    "annotations": [
+        {
+            "x": 0.5,
+            "y": 0.1,
+            "xref": "paper",
+            "yref": "paper",
+            "text": "Facebook has a significantly higher focus on content compared to other platforms.",
+            "showarrow": false,
+            "font": {
+                "size": 14
+            }
+        },
+        {
+            "x": 0.8,
+            "y": 0.7,
+            "xref": "paper",
+            "yref": "paper",
+            "text": "LinkedIn has a higher focus on updates compared to other platforms.",
+            "showarrow": false,
+            "font": {
+                "size": 14
+            }
+        }
+    ]
+}

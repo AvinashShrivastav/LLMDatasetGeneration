@@ -1,0 +1,8 @@
+x,y,measure
+Order Placed,1200,relative
+Order Processing,-100,relative
+Shipping Delay,-300,relative
+Delivery,80,relative
+Returns,-200,relative
+Customer Support,-50,relative
+Total Revenue,530,total

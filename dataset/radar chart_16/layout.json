@@ -1,0 +1,15 @@
+{
+    "type": "scatterpolar",
+    "r": [
+        1,
+        2,
+        3
+    ],
+    "theta": [
+        30,
+        60,
+        90
+    ],
+    "mode": "markers+lines",
+    "name": "Sample"
+}

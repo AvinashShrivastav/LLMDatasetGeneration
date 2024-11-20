@@ -1,0 +1,44 @@
+{
+    "title": {
+        "text": "Daily Water Intake (ml) by Time of Day and Day of Week",
+        "font": {
+            "size": 18
+        }
+    },
+    "xaxis": {
+        "title": "Time of Day",
+        "tickangle": 45
+    },
+    "yaxis": {
+        "title": "Day of Week"
+    },
+    "coloraxis": {
+        "colorbar": {
+            "title": "Water Intake (ml)"
+        }
+    },
+    "annotations": [
+        {
+            "x": "Night",
+            "y": "Sunday",
+            "xref": "x",
+            "yref": "y",
+            "text": "Low Intake",
+            "showarrow": true,
+            "arrowhead": 7,
+            "ax": 0,
+            "ay": -40
+        },
+        {
+            "x": "Afternoon",
+            "y": "Tuesday",
+            "xref": "x",
+            "yref": "y",
+            "text": "Peak Intake",
+            "showarrow": true,
+            "arrowhead": 7,
+            "ax": 0,
+            "ay": -40
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "polar": {
+        "radialaxis": {
+            "visible": true,
+            "range": [
+                0,
+                40
+            ],
+            "title": {
+                "text": "Commute Time (minutes)"
+            }
+        },
+        "angularaxis": {
+            "tickmode": "array",
+            "tickvals": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday"
+            ],
+            "ticktext": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday"
+            ]
+        }
+    },
+    "title": {
+        "text": "Weekly Commute Time by Mode of Transportation",
+        "font": {
+            "size": 18
+        }
+    },
+    "legend": {
+        "orientation": "h",
+        "x": 0.5,
+        "y": -0.2,
+        "xanchor": "center"
+    },
+    "annotations": [
+        {
+            "x": "Tuesday",
+            "y": 35,
+            "text": "Train outlier",
+            "showarrow": true,
+            "arrowhead": 0,
+            "ax": 0,
+            "ay": -40
+        }
+    ]
+}

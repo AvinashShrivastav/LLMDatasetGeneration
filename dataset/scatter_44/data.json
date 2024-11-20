@@ -1,0 +1,74 @@
+[
+    {
+        "Grocery Store": "Walmart",
+        "Milk (gallon)": 3.49,
+        "Eggs (dozen)": 2.99,
+        "Bread (loaf)": 2.49,
+        "Chicken (lb)": 4.99,
+        "Beef (lb)": 8.99,
+        "Apples (lb)": 1.49,
+        "Bananas (lb)": 0.59,
+        "Oranges (lb)": 1.29,
+        "Potatoes (lb)": 0.99
+    },
+    {
+        "Grocery Store": "Target",
+        "Milk (gallon)": 3.79,
+        "Eggs (dozen)": 3.29,
+        "Bread (loaf)": 2.69,
+        "Chicken (lb)": 5.49,
+        "Beef (lb)": 9.49,
+        "Apples (lb)": 1.69,
+        "Bananas (lb)": 0.69,
+        "Oranges (lb)": 1.49,
+        "Potatoes (lb)": 1.19
+    },
+    {
+        "Grocery Store": "Kroger",
+        "Milk (gallon)": 3.99,
+        "Eggs (dozen)": 3.49,
+        "Bread (loaf)": 2.79,
+        "Chicken (lb)": 5.99,
+        "Beef (lb)": 9.99,
+        "Apples (lb)": 1.89,
+        "Bananas (lb)": 0.79,
+        "Oranges (lb)": 1.59,
+        "Potatoes (lb)": 1.29
+    },
+    {
+        "Grocery Store": "Trader Joe's",
+        "Milk (gallon)": 2.99,
+        "Eggs (dozen)": 2.49,
+        "Bread (loaf)": 1.99,
+        "Chicken (lb)": 4.49,
+        "Beef (lb)": 7.99,
+        "Apples (lb)": 1.29,
+        "Bananas (lb)": 0.49,
+        "Oranges (lb)": 1.09,
+        "Potatoes (lb)": 0.79
+    },
+    {
+        "Grocery Store": "Whole Foods",
+        "Milk (gallon)": 4.99,
+        "Eggs (dozen)": 4.49,
+        "Bread (loaf)": 3.99,
+        "Chicken (lb)": 6.99,
+        "Beef (lb)": 11.99,
+        "Apples (lb)": 2.49,
+        "Bananas (lb)": 0.99,
+        "Oranges (lb)": 1.99,
+        "Potatoes (lb)": 1.69
+    },
+    {
+        "Grocery Store": "Local Market",
+        "Milk (gallon)": 3.29,
+        "Eggs (dozen)": 2.79,
+        "Bread (loaf)": 2.29,
+        "Chicken (lb)": 4.79,
+        "Beef (lb)": 8.49,
+        "Apples (lb)": 1.39,
+        "Bananas (lb)": 0.54,
+        "Oranges (lb)": 1.19,
+        "Potatoes (lb)": 0.89
+    }
+]

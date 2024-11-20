@@ -1,0 +1,84 @@
+[
+    {
+        "type": "scatter",
+        "x": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday",
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "y": [
+            25,
+            30,
+            35,
+            40,
+            45,
+            50,
+            55,
+            60,
+            65,
+            70,
+            75,
+            80
+        ],
+        "mode": "lines+markers",
+        "name": "Commute Time (Minutes)",
+        "marker": {
+            "size": 8,
+            "color": "blue"
+        },
+        "line": {
+            "color": "blue",
+            "width": 2
+        }
+    },
+    {
+        "type": "scatter",
+        "x": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday",
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "y": [
+            28,
+            33,
+            38,
+            43,
+            48,
+            53,
+            58,
+            63,
+            68,
+            73,
+            78,
+            83
+        ],
+        "mode": "lines+markers",
+        "name": "Traffic Delays (Minutes)",
+        "marker": {
+            "size": 8,
+            "color": "red"
+        },
+        "line": {
+            "color": "red",
+            "width": 2
+        }
+    }
+]

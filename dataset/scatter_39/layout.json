@@ -1,0 +1,71 @@
+{
+    "title": {
+        "text": "Exercise Routine Progress (Resistance Level)",
+        "font": {
+            "size": 24
+        }
+    },
+    "xaxis": {
+        "title": {
+            "text": "Day of the Week"
+        },
+        "tickangle": -45,
+        "tickfont": {
+            "size": 14
+        }
+    },
+    "yaxis": {
+        "title": {
+            "text": "Resistance Level"
+        },
+        "tickfont": {
+            "size": 14
+        }
+    },
+    "legend": {
+        "x": 0.05,
+        "y": 1.05,
+        "orientation": "h",
+        "font": {
+            "size": 14
+        }
+    },
+    "annotations": [
+        {
+            "x": "Wednesday",
+            "y": 90,
+            "xref": "x",
+            "yref": "y",
+            "text": "Peak Resistance for Squats",
+            "showarrow": true,
+            "arrowhead": 7,
+            "ax": 0,
+            "ay": -40
+        },
+        {
+            "x": "Friday",
+            "y": 60,
+            "xref": "x",
+            "yref": "y",
+            "text": "High Resistance for Push-ups",
+            "showarrow": true,
+            "arrowhead": 7,
+            "ax": 0,
+            "ay": -40
+        }
+    ],
+    "margin": {
+        "l": 50,
+        "r": 50,
+        "b": 100,
+        "t": 100
+    },
+    "plot_bgcolor": "white",
+    "paper_bgcolor": "white",
+    "font": {
+        "family": "Arial",
+        "size": 14,
+        "color": "#333"
+    },
+    "showlegend": true
+}

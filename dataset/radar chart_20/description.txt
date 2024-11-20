@@ -1,0 +1,7 @@
+This radar chart visualizes the breakdown of annual income and expenses across 12 categories for a hypothetical individual. The green line represents income, and the red line represents expenses. 
+
+Generally, the income trend is higher than expenses across most categories. However, there are significant variances in both income and expenses. Housing is the largest expense category, with a noticeable gap between income and spending.  Entertainment and Education seem to be areas where income exceeds expenses.
+
+One notable outlier is the travel category, where expenses are significantly lower than income. This could be due to a personal preference for staying local or a recent reduction in travel expenditures. 
+
+The chart demonstrates a clear need for financial planning, particularly in managing housing costs and exploring opportunities to increase income in areas like travel and entertainment.

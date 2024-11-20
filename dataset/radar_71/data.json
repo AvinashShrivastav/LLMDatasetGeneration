@@ -1,0 +1,41 @@
+[
+    {
+        "type": "scatterpolar",
+        "r": [
+            12,
+            15,
+            10,
+            18,
+            22,
+            16,
+            14,
+            19,
+            25,
+            13,
+            17
+        ],
+        "theta": [
+            "Requirement Gathering",
+            "Design",
+            "Development",
+            "Testing",
+            "Deployment",
+            "Documentation",
+            "Training",
+            "Support",
+            "Maintenance",
+            "Project Management",
+            "Risk Management"
+        ],
+        "mode": "lines+markers",
+        "name": "Milestone Progress",
+        "marker": {
+            "size": 8,
+            "color": "blue"
+        },
+        "line": {
+            "color": "blue",
+            "width": 2
+        }
+    }
+]

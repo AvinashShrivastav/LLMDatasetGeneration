@@ -1,0 +1,56 @@
+{
+    "title": "Monthly Sales and Expenses",
+    "xaxis": {
+        "title": "Month"
+    },
+    "yaxis": {
+        "title": "Amount"
+    },
+    "legend": {
+        "x": 0,
+        "y": 1,
+        "traceorder": "normal",
+        "font": {
+            "family": "sans-serif",
+            "size": 12,
+            "color": "#000"
+        },
+        "bgcolor": "#E2E2E2",
+        "bordercolor": "#FFFFFF",
+        "borderwidth": 2
+    },
+    "annotations": [
+        {
+            "x": "Jun",
+            "y": 55,
+            "xref": "x",
+            "yref": "y",
+            "text": "Peak Sales",
+            "showarrow": true,
+            "arrowhead": 7,
+            "ax": 0,
+            "ay": -40
+        },
+        {
+            "x": "Aug",
+            "y": 45,
+            "xref": "x",
+            "yref": "y",
+            "text": "Significant Expenses",
+            "showarrow": true,
+            "arrowhead": 7,
+            "ax": 0,
+            "ay": -40
+        }
+    ],
+    "margin": {
+        "l": 50,
+        "r": 50,
+        "b": 100,
+        "t": 100,
+        "pad": 4
+    },
+    "paper_bgcolor": "#fff",
+    "plot_bgcolor": "#fff",
+    "showlegend": true
+}

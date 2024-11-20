@@ -1,0 +1,125 @@
+[
+    {
+        "type": "scatterpolar",
+        "r": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            11,
+            10,
+            9,
+            8,
+            7
+        ],
+        "theta": [
+            "Sleep Duration (Hours)",
+            "Sleep Quality (Score)",
+            "Wake-up Time (Hour)",
+            "Bedtime (Hour)",
+            "Stress Level (Score)",
+            "Caffeine Intake (mg)",
+            "Exercise Time (Minutes)",
+            "Screen Time (Hours)",
+            "Sleep Latency (Minutes)",
+            "Sleep Efficiency (%)",
+            "REM Sleep (Minutes)",
+            "Deep Sleep (Minutes)"
+        ],
+        "mode": "lines+markers",
+        "name": "Week 1",
+        "marker": {
+            "size": 8,
+            "color": "blue"
+        },
+        "line": {
+            "color": "blue",
+            "width": 2
+        }
+    },
+    {
+        "type": "scatterpolar",
+        "r": [
+            7,
+            8,
+            9,
+            10,
+            9,
+            8,
+            7,
+            6,
+            5,
+            4,
+            3,
+            2
+        ],
+        "theta": [
+            "Sleep Duration (Hours)",
+            "Sleep Quality (Score)",
+            "Wake-up Time (Hour)",
+            "Bedtime (Hour)",
+            "Stress Level (Score)",
+            "Caffeine Intake (mg)",
+            "Exercise Time (Minutes)",
+            "Screen Time (Hours)",
+            "Sleep Latency (Minutes)",
+            "Sleep Efficiency (%)",
+            "REM Sleep (Minutes)",
+            "Deep Sleep (Minutes)"
+        ],
+        "mode": "lines+markers",
+        "name": "Week 2",
+        "marker": {
+            "size": 8,
+            "color": "red"
+        },
+        "line": {
+            "color": "red",
+            "width": 2
+        }
+    },
+    {
+        "type": "scatterpolar",
+        "r": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            11,
+            10,
+            9,
+            8,
+            7,
+            6,
+            5
+        ],
+        "theta": [
+            "Sleep Duration (Hours)",
+            "Sleep Quality (Score)",
+            "Wake-up Time (Hour)",
+            "Bedtime (Hour)",
+            "Stress Level (Score)",
+            "Caffeine Intake (mg)",
+            "Exercise Time (Minutes)",
+            "Screen Time (Hours)",
+            "Sleep Latency (Minutes)",
+            "Sleep Efficiency (%)",
+            "REM Sleep (Minutes)",
+            "Deep Sleep (Minutes)"
+        ],
+        "mode": "lines+markers",
+        "name": "Week 3",
+        "marker": {
+            "size": 8,
+            "color": "green"
+        },
+        "line": {
+            "color": "green",
+            "width": 2
+        }
+    }
+]

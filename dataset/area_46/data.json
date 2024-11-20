@@ -1,0 +1,137 @@
+[
+    {
+        "x": "2024-01",
+        "y": 120,
+        "category": "Hotel Costs"
+    },
+    {
+        "x": "2024-02",
+        "y": 150,
+        "category": "Hotel Costs"
+    },
+    {
+        "x": "2024-03",
+        "y": 180,
+        "category": "Hotel Costs"
+    },
+    {
+        "x": "2024-04",
+        "y": 210,
+        "category": "Hotel Costs"
+    },
+    {
+        "x": "2024-05",
+        "y": 240,
+        "category": "Hotel Costs"
+    },
+    {
+        "x": "2024-06",
+        "y": 270,
+        "category": "Hotel Costs"
+    },
+    {
+        "x": "2024-07",
+        "y": 300,
+        "category": "Hotel Costs"
+    },
+    {
+        "x": "2024-08",
+        "y": 250,
+        "category": "Hotel Costs"
+    },
+    {
+        "x": "2024-09",
+        "y": 200,
+        "category": "Hotel Costs"
+    },
+    {
+        "x": "2024-01",
+        "y": 90,
+        "category": "Flight Costs"
+    },
+    {
+        "x": "2024-02",
+        "y": 130,
+        "category": "Flight Costs"
+    },
+    {
+        "x": "2024-03",
+        "y": 160,
+        "category": "Flight Costs"
+    },
+    {
+        "x": "2024-04",
+        "y": 190,
+        "category": "Flight Costs"
+    },
+    {
+        "x": "2024-05",
+        "y": 220,
+        "category": "Flight Costs"
+    },
+    {
+        "x": "2024-06",
+        "y": 250,
+        "category": "Flight Costs"
+    },
+    {
+        "x": "2024-07",
+        "y": 280,
+        "category": "Flight Costs"
+    },
+    {
+        "x": "2024-08",
+        "y": 310,
+        "category": "Flight Costs"
+    },
+    {
+        "x": "2024-09",
+        "y": 240,
+        "category": "Flight Costs"
+    },
+    {
+        "x": "2024-01",
+        "y": 50,
+        "category": "Entertainment"
+    },
+    {
+        "x": "2024-02",
+        "y": 70,
+        "category": "Entertainment"
+    },
+    {
+        "x": "2024-03",
+        "y": 90,
+        "category": "Entertainment"
+    },
+    {
+        "x": "2024-04",
+        "y": 110,
+        "category": "Entertainment"
+    },
+    {
+        "x": "2024-05",
+        "y": 130,
+        "category": "Entertainment"
+    },
+    {
+        "x": "2024-06",
+        "y": 150,
+        "category": "Entertainment"
+    },
+    {
+        "x": "2024-07",
+        "y": 170,
+        "category": "Entertainment"
+    },
+    {
+        "x": "2024-08",
+        "y": 190,
+        "category": "Entertainment"
+    },
+    {
+        "x": "2024-09",
+        "y": 210,
+        "category": "Entertainment"
+    }
+]

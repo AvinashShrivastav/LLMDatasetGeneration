@@ -1,0 +1,65 @@
+{
+    "polar": {
+        "radialaxis": {
+            "visible": true,
+            "range": [
+                0,
+                25
+            ],
+            "title": {
+                "text": "Popularity"
+            }
+        },
+        "angularaxis": {
+            "tickmode": "array",
+            "tickvals": [
+                "Movie Night",
+                "Dinner Date",
+                "Hiking Trip",
+                "Museum Visit",
+                "Shopping Spree",
+                "Picnic in Park",
+                "Concert"
+            ],
+            "ticktext": [
+                "Movie Night",
+                "Dinner Date",
+                "Hiking Trip",
+                "Museum Visit",
+                "Shopping Spree",
+                "Picnic in Park",
+                "Concert"
+            ]
+        }
+    },
+    "title": {
+        "text": "Weekend Activity Planner: Popularity by Day",
+        "font": {
+            "size": 18
+        }
+    },
+    "annotations": [
+        {
+            "x": "Movie Night",
+            "y": 22,
+            "xref": "x",
+            "yref": "y",
+            "text": "Sunday Outlier",
+            "showarrow": true,
+            "arrowhead": 7,
+            "ax": 0,
+            "ay": -40
+        },
+        {
+            "x": "Picnic in Park",
+            "y": 21,
+            "xref": "x",
+            "yref": "y",
+            "text": "Saturday Peak",
+            "showarrow": true,
+            "arrowhead": 7,
+            "ax": 0,
+            "ay": -40
+        }
+    ]
+}

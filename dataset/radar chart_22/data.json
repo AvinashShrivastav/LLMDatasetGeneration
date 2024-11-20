@@ -1,0 +1,150 @@
+[
+    {
+        "type": "scatterpolar",
+        "r": [
+            7.5,
+            8.2,
+            7.8,
+            8.1,
+            8.3,
+            7.9,
+            8.0,
+            7.6,
+            7.7,
+            8.4
+        ],
+        "theta": [
+            "Sleep Duration (hrs)",
+            "Sleep Quality",
+            "Wake-up Time",
+            "Bedtime",
+            "Sleep Efficiency",
+            "REM Sleep",
+            "Deep Sleep",
+            "Light Sleep",
+            "Sleep Latency",
+            "Sleep Onset"
+        ],
+        "mode": "lines+markers",
+        "name": "Week 1",
+        "marker": {
+            "size": 8,
+            "color": "blue"
+        },
+        "line": {
+            "color": "blue",
+            "width": 2
+        }
+    },
+    {
+        "type": "scatterpolar",
+        "r": [
+            7.2,
+            8.0,
+            7.6,
+            7.9,
+            8.1,
+            7.7,
+            7.8,
+            7.4,
+            7.5,
+            8.2
+        ],
+        "theta": [
+            "Sleep Duration (hrs)",
+            "Sleep Quality",
+            "Wake-up Time",
+            "Bedtime",
+            "Sleep Efficiency",
+            "REM Sleep",
+            "Deep Sleep",
+            "Light Sleep",
+            "Sleep Latency",
+            "Sleep Onset"
+        ],
+        "mode": "lines+markers",
+        "name": "Week 2",
+        "marker": {
+            "size": 8,
+            "color": "red"
+        },
+        "line": {
+            "color": "red",
+            "width": 2
+        }
+    },
+    {
+        "type": "scatterpolar",
+        "r": [
+            6.8,
+            7.5,
+            7.2,
+            7.7,
+            7.9,
+            7.4,
+            7.5,
+            7.1,
+            7.2,
+            7.9
+        ],
+        "theta": [
+            "Sleep Duration (hrs)",
+            "Sleep Quality",
+            "Wake-up Time",
+            "Bedtime",
+            "Sleep Efficiency",
+            "REM Sleep",
+            "Deep Sleep",
+            "Light Sleep",
+            "Sleep Latency",
+            "Sleep Onset"
+        ],
+        "mode": "lines+markers",
+        "name": "Week 3",
+        "marker": {
+            "size": 8,
+            "color": "green"
+        },
+        "line": {
+            "color": "green",
+            "width": 2
+        }
+    },
+    {
+        "type": "scatterpolar",
+        "r": [
+            7.3,
+            8.1,
+            7.7,
+            8.0,
+            8.2,
+            7.8,
+            7.9,
+            7.5,
+            7.6,
+            8.3
+        ],
+        "theta": [
+            "Sleep Duration (hrs)",
+            "Sleep Quality",
+            "Wake-up Time",
+            "Bedtime",
+            "Sleep Efficiency",
+            "REM Sleep",
+            "Deep Sleep",
+            "Light Sleep",
+            "Sleep Latency",
+            "Sleep Onset"
+        ],
+        "mode": "lines+markers",
+        "name": "Week 4",
+        "marker": {
+            "size": 8,
+            "color": "orange"
+        },
+        "line": {
+            "color": "orange",
+            "width": 2
+        }
+    }
+]

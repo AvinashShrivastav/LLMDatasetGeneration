@@ -1,0 +1,173 @@
+[
+    {
+        "type": "gantt",
+        "x": [
+            "Breakfast",
+            "Lunch",
+            "Dinner"
+        ],
+        "y": [
+            "Monday",
+            "Tuesday",
+            "Wednesday"
+        ],
+        "start": [
+            "2024-03-18T08:00:00",
+            "2024-03-19T12:00:00",
+            "2024-03-20T18:00:00"
+        ],
+        "finish": [
+            "2024-03-18T09:00:00",
+            "2024-03-19T13:00:00",
+            "2024-03-20T19:00:00"
+        ],
+        "resources": [
+            "Tom",
+            "Tom",
+            "Tom"
+        ],
+        "name": [
+            "Prepare Breakfast",
+            "Pack Lunch",
+            "Cook Dinner"
+        ],
+        "customdata": [
+            {
+                "meal_type": "Breakfast",
+                "day": "Monday",
+                "duration": "1 hour"
+            },
+            {
+                "meal_type": "Lunch",
+                "day": "Tuesday",
+                "duration": "1 hour"
+            },
+            {
+                "meal_type": "Dinner",
+                "day": "Wednesday",
+                "duration": "1 hour"
+            }
+        ],
+        "marker": {
+            "color": [
+                "rgb(255, 0, 0)",
+                "rgb(0, 255, 0)",
+                "rgb(0, 0, 255)"
+            ]
+        }
+    },
+    {
+        "type": "gantt",
+        "x": [
+            "Breakfast",
+            "Lunch",
+            "Dinner"
+        ],
+        "y": [
+            "Monday",
+            "Tuesday",
+            "Wednesday"
+        ],
+        "start": [
+            "2024-03-18T08:30:00",
+            "2024-03-19T12:30:00",
+            "2024-03-20T18:30:00"
+        ],
+        "finish": [
+            "2024-03-18T09:30:00",
+            "2024-03-19T13:30:00",
+            "2024-03-20T19:30:00"
+        ],
+        "resources": [
+            "Alice",
+            "Alice",
+            "Alice"
+        ],
+        "name": [
+            "Prepare Breakfast",
+            "Pack Lunch",
+            "Cook Dinner"
+        ],
+        "customdata": [
+            {
+                "meal_type": "Breakfast",
+                "day": "Monday",
+                "duration": "1 hour"
+            },
+            {
+                "meal_type": "Lunch",
+                "day": "Tuesday",
+                "duration": "1 hour"
+            },
+            {
+                "meal_type": "Dinner",
+                "day": "Wednesday",
+                "duration": "1 hour"
+            }
+        ],
+        "marker": {
+            "color": [
+                "rgb(255, 165, 0)",
+                "rgb(0, 255, 255)",
+                "rgb(128, 0, 128)"
+            ]
+        }
+    },
+    {
+        "type": "gantt",
+        "x": [
+            "Breakfast",
+            "Lunch",
+            "Dinner"
+        ],
+        "y": [
+            "Monday",
+            "Tuesday",
+            "Wednesday"
+        ],
+        "start": [
+            "2024-03-18T09:00:00",
+            "2024-03-19T13:00:00",
+            "2024-03-20T19:00:00"
+        ],
+        "finish": [
+            "2024-03-18T10:00:00",
+            "2024-03-19T14:00:00",
+            "2024-03-20T20:00:00"
+        ],
+        "resources": [
+            "Bob",
+            "Bob",
+            "Bob"
+        ],
+        "name": [
+            "Prepare Breakfast",
+            "Pack Lunch",
+            "Cook Dinner"
+        ],
+        "customdata": [
+            {
+                "meal_type": "Breakfast",
+                "day": "Monday",
+                "duration": "1 hour"
+            },
+            {
+                "meal_type": "Lunch",
+                "day": "Tuesday",
+                "duration": "1 hour"
+            },
+            {
+                "meal_type": "Dinner",
+                "day": "Wednesday",
+                "duration": "1 hour"
+            }
+        ],
+        "marker": {
+            "color": [
+                "rgb(0, 128, 0)",
+                "rgb(255, 255, 0)",
+                "rgb(128, 128, 0)"
+            ]
+        }
+    }
+]

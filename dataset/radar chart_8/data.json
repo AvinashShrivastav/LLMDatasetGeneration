@@ -1,0 +1,131 @@
+[
+    {
+        "type": "scatterpolar",
+        "r": [
+            1200,
+            1500,
+            1300,
+            1700,
+            2000,
+            2500,
+            2300,
+            1800,
+            1600,
+            1400,
+            1100,
+            900,
+            1000
+        ],
+        "theta": [
+            "Homeowners",
+            "Renters",
+            "Condo",
+            "Flood",
+            "Earthquake",
+            "Wind",
+            "Hail",
+            "Fire",
+            "Theft",
+            "Liability",
+            "Medical",
+            "Personal Property",
+            "Other"
+        ],
+        "mode": "lines+markers",
+        "name": "Average Monthly Premiums",
+        "marker": {
+            "size": 8,
+            "color": "blue"
+        },
+        "line": {
+            "color": "blue",
+            "width": 2
+        }
+    },
+    {
+        "type": "scatterpolar",
+        "r": [
+            1000,
+            1300,
+            1100,
+            1500,
+            1800,
+            2200,
+            2000,
+            1500,
+            1300,
+            1100,
+            800,
+            600,
+            700
+        ],
+        "theta": [
+            "Homeowners",
+            "Renters",
+            "Condo",
+            "Flood",
+            "Earthquake",
+            "Wind",
+            "Hail",
+            "Fire",
+            "Theft",
+            "Liability",
+            "Medical",
+            "Personal Property",
+            "Other"
+        ],
+        "mode": "lines+markers",
+        "name": "Minimum Monthly Premiums",
+        "marker": {
+            "size": 8,
+            "color": "green"
+        },
+        "line": {
+            "color": "green",
+            "width": 2
+        }
+    },
+    {
+        "type": "scatterpolar",
+        "r": [
+            1400,
+            1700,
+            1500,
+            1900,
+            2200,
+            2800,
+            2600,
+            2100,
+            1900,
+            1700,
+            1400,
+            1200,
+            1300
+        ],
+        "theta": [
+            "Homeowners",
+            "Renters",
+            "Condo",
+            "Flood",
+            "Earthquake",
+            "Wind",
+            "Hail",
+            "Fire",
+            "Theft",
+            "Liability",
+            "Medical",
+            "Personal Property",
+            "Other"
+        ],
+        "mode": "lines+markers",
+        "name": "Maximum Monthly Premiums",
+        "marker": {
+            "size": 8,
+            "color": "red"
+        },
+        "line": {
+            "color": "red",
+            "width": 2
+        }
+    }
+]

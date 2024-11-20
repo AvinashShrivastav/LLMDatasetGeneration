@@ -1,0 +1,50 @@
+{
+    "polar": {
+        "radialaxis": {
+            "visible": true,
+            "range": [
+                0,
+                25
+            ],
+            "title": {
+                "text": "Progress Score (0-25)"
+            }
+        },
+        "angularaxis": {
+            "tickmode": "array",
+            "tickvals": [
+                "Financial Stability",
+                "Health & Wellness",
+                "Career Growth",
+                "Personal Relationships",
+                "Skill Development"
+            ],
+            "ticktext": [
+                "Financial Stability",
+                "Health & Wellness",
+                "Career Growth",
+                "Personal Relationships",
+                "Skill Development"
+            ]
+        }
+    },
+    "title": {
+        "text": "Personal Goal Setting Progress",
+        "font": {
+            "size": 18
+        }
+    },
+    "annotations": [
+        {
+            "xref": "paper",
+            "yref": "paper",
+            "x": 0.5,
+            "y": 0.8,
+            "text": "Outlier: Skill Development",
+            "showarrow": true,
+            "arrowhead": 7,
+            "ax": 0,
+            "ay": -40
+        }
+    ]
+}

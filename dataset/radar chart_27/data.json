@@ -1,0 +1,64 @@
+[
+    {
+        "type": "scatterpolar",
+        "r": [
+            12,
+            18,
+            15,
+            14,
+            21,
+            19,
+            17
+        ],
+        "theta": [
+            "Movie Night",
+            "Dinner Date",
+            "Hiking Trip",
+            "Museum Visit",
+            "Shopping Spree",
+            "Picnic in Park",
+            "Concert"
+        ],
+        "mode": "lines+markers",
+        "name": "Saturday",
+        "marker": {
+            "size": 8,
+            "color": "blue"
+        },
+        "line": {
+            "color": "blue",
+            "width": 2
+        }
+    },
+    {
+        "type": "scatterpolar",
+        "r": [
+            10,
+            15,
+            13,
+            17,
+            20,
+            22,
+            16
+        ],
+        "theta": [
+            "Movie Night",
+            "Dinner Date",
+            "Hiking Trip",
+            "Museum Visit",
+            "Shopping Spree",
+            "Picnic in Park",
+            "Concert"
+        ],
+        "mode": "lines+markers",
+        "name": "Sunday",
+        "marker": {
+            "size": 8,
+            "color": "red"
+        },
+        "line": {
+            "color": "red",
+            "width": 2
+        }
+    }
+]

@@ -1,0 +1,46 @@
+{
+    "title": {
+        "text": "Family Tree Research Progress: Daily Stock Trends",
+        "font": {
+            "size": 18
+        }
+    },
+    "xaxis": {
+        "title": "Date",
+        "tickformat": "%Y-%m-%d"
+    },
+    "yaxis": {
+        "title": "Research Progress (Stock Value)"
+    },
+    "annotations": [
+        {
+            "x": "2024-09-03",
+            "y": 125,
+            "xref": "x",
+            "yref": "y",
+            "text": "Significant Progress",
+            "showarrow": true,
+            "arrowhead": 7,
+            "ax": 0,
+            "ay": -40
+        },
+        {
+            "x": "2024-09-09",
+            "y": 160,
+            "xref": "x",
+            "yref": "y",
+            "text": "Major Breakthrough",
+            "showarrow": true,
+            "arrowhead": 7,
+            "ax": 0,
+            "ay": -40
+        }
+    ],
+    "margin": {
+        "l": 50,
+        "r": 50,
+        "b": 100,
+        "t": 100
+    },
+    "bargap": 0.3
+}

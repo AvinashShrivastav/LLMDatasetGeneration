@@ -1,0 +1,56 @@
+[
+    {
+        "type": "scatterpolar",
+        "r": [
+            15,
+            18,
+            22,
+            25,
+            30
+        ],
+        "theta": [
+            "Accommodation",
+            "Transportation",
+            "Food",
+            "Activities",
+            "Entertainment"
+        ],
+        "mode": "lines+markers",
+        "name": "Budget",
+        "marker": {
+            "size": 8,
+            "color": "blue"
+        },
+        "line": {
+            "color": "blue",
+            "width": 2
+        }
+    },
+    {
+        "type": "scatterpolar",
+        "r": [
+            10,
+            12,
+            15,
+            18,
+            20
+        ],
+        "theta": [
+            "Accommodation",
+            "Transportation",
+            "Food",
+            "Activities",
+            "Entertainment"
+        ],
+        "mode": "lines+markers",
+        "name": "Actual Spending",
+        "marker": {
+            "size": 8,
+            "color": "red"
+        },
+        "line": {
+            "color": "red",
+            "width": 2
+        }
+    }
+]

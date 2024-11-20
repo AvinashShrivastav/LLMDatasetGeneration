@@ -1,0 +1,107 @@
+[
+    {
+        "x": "Monday",
+        "y": 35,
+        "category": "Car"
+    },
+    {
+        "x": "Tuesday",
+        "y": 38,
+        "category": "Car"
+    },
+    {
+        "x": "Wednesday",
+        "y": 42,
+        "category": "Car"
+    },
+    {
+        "x": "Thursday",
+        "y": 45,
+        "category": "Car"
+    },
+    {
+        "x": "Friday",
+        "y": 40,
+        "category": "Car"
+    },
+    {
+        "x": "Saturday",
+        "y": 25,
+        "category": "Car"
+    },
+    {
+        "x": "Sunday",
+        "y": 20,
+        "category": "Car"
+    },
+    {
+        "x": "Monday",
+        "y": 40,
+        "category": "Public Transport"
+    },
+    {
+        "x": "Tuesday",
+        "y": 45,
+        "category": "Public Transport"
+    },
+    {
+        "x": "Wednesday",
+        "y": 50,
+        "category": "Public Transport"
+    },
+    {
+        "x": "Thursday",
+        "y": 55,
+        "category": "Public Transport"
+    },
+    {
+        "x": "Friday",
+        "y": 50,
+        "category": "Public Transport"
+    },
+    {
+        "x": "Saturday",
+        "y": 35,
+        "category": "Public Transport"
+    },
+    {
+        "x": "Sunday",
+        "y": 30,
+        "category": "Public Transport"
+    },
+    {
+        "x": "Monday",
+        "y": 15,
+        "category": "Cycling"
+    },
+    {
+        "x": "Tuesday",
+        "y": 18,
+        "category": "Cycling"
+    },
+    {
+        "x": "Wednesday",
+        "y": 20,
+        "category": "Cycling"
+    },
+    {
+        "x": "Thursday",
+        "y": 25,
+        "category": "Cycling"
+    },
+    {
+        "x": "Friday",
+        "y": 20,
+        "category": "Cycling"
+    },
+    {
+        "x": "Saturday",
+        "y": 10,
+        "category": "Cycling"
+    },
+    {
+        "x": "Sunday",
+        "y": 5,
+        "category": "Cycling"
+    }
+]

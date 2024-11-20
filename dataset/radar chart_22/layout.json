@@ -1,0 +1,67 @@
+{
+    "polar": {
+        "radialaxis": {
+            "visible": true,
+            "range": [
+                6,
+                9
+            ],
+            "title": {
+                "text": "Values"
+            }
+        },
+        "angularaxis": {
+            "tickmode": "array",
+            "tickvals": [
+                "Sleep Duration (hrs)",
+                "Sleep Quality",
+                "Wake-up Time",
+                "Bedtime",
+                "Sleep Efficiency",
+                "REM Sleep",
+                "Deep Sleep",
+                "Light Sleep",
+                "Sleep Latency",
+                "Sleep Onset"
+            ],
+            "ticktext": [
+                "Sleep Duration (hrs)",
+                "Sleep Quality",
+                "Wake-up Time",
+                "Bedtime",
+                "Sleep Efficiency",
+                "REM Sleep",
+                "Deep Sleep",
+                "Light Sleep",
+                "Sleep Latency",
+                "Sleep Onset"
+            ]
+        }
+    },
+    "title": {
+        "text": "Sleep Pattern Analysis (Radar Chart)",
+        "font": {
+            "size": 18
+        }
+    },
+    "legend": {
+        "orientation": "h",
+        "x": 0.5,
+        "y": 1.1,
+        "xanchor": "center",
+        "yanchor": "top"
+    },
+    "annotations": [
+        {
+            "x": 0.5,
+            "y": 0.95,
+            "xref": "paper",
+            "yref": "paper",
+            "text": "Outlier: Week 3 - Sleep Duration (hrs)",
+            "showarrow": true,
+            "arrowhead": 7,
+            "ax": 0,
+            "ay": -40
+        }
+    ]
+}

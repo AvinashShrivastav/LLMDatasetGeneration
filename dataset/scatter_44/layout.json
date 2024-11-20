@@ -1,0 +1,59 @@
+{
+    "title": {
+        "text": "Grocery Price Comparison: Contracting Channel",
+        "font": {
+            "size": 18
+        }
+    },
+    "xaxis": {
+        "title": "Grocery Items",
+        "tickangle": -45,
+        "tickfont": {
+            "size": 10
+        }
+    },
+    "yaxis": {
+        "title": "Price ($)"
+    },
+    "legend": {
+        "x": 1,
+        "y": 1,
+        "orientation": "h"
+    },
+    "annotations": [
+        {
+            "x": "Whole Foods",
+            "y": 11.99,
+            "xref": "x",
+            "yref": "y",
+            "text": "Outlier: High Beef Price",
+            "showarrow": true,
+            "arrowhead": 7,
+            "ax": 0,
+            "ay": -40
+        },
+        {
+            "x": "Trader Joe's",
+            "y": 0.49,
+            "xref": "x",
+            "yref": "y",
+            "text": "Outlier: Low Banana Price",
+            "showarrow": true,
+            "arrowhead": 7,
+            "ax": 0,
+            "ay": 40
+        }
+    ],
+    "margin": {
+        "l": 50,
+        "r": 50,
+        "b": 100,
+        "t": 100
+    },
+    "grid": {
+        "rows": 10,
+        "columns": 10,
+        "pattern": "dot",
+        "opacity": 0.2
+    }
+}

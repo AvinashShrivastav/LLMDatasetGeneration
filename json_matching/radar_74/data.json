@@ -1,0 +1,60 @@
+[
+    {
+        "type": "scatterpolar",
+        "r": [
+            15,
+            12,
+            18,
+            22,
+            10,
+            14
+        ],
+        "theta": [
+            "Gifts",
+            "Decorations",
+            "Food",
+            "Drinks",
+            "Games",
+            "Entertainment"
+        ],
+        "mode": "lines+markers",
+        "name": "Expected",
+        "marker": {
+            "size": 8,
+            "color": "blue"
+        },
+        "line": {
+            "color": "blue",
+            "width": 2
+        }
+    },
+    {
+        "type": "scatterpolar",
+        "r": [
+            20,
+            18,
+            25,
+            30,
+            12,
+            16
+        ],
+        "theta": [
+            "Gifts",
+            "Decorations",
+            "Food",
+            "Drinks",
+            "Games",
+            "Entertainment"
+        ],
+        "mode": "lines+markers",
+        "name": "Actual",
+        "marker": {
+            "size": 8,
+            "color": "red"
+        },
+        "line": {
+            "color": "red",
+            "width": 2
+        }
+    }
+]

@@ -1,0 +1,60 @@
+{
+    "polar": {
+        "radialaxis": {
+            "visible": true,
+            "range": [
+                0,
+                25
+            ],
+            "title": {
+                "text": "Progress Score (0-25)"
+            }
+        },
+        "angularaxis": {
+            "tickmode": "array",
+            "tickvals": [
+                "Task Completion",
+                "Resource Availability",
+                "Team Collaboration",
+                "Budget Management",
+                "Risk Assessment",
+                "Quality Assurance",
+                "Communication",
+                "Project Scope",
+                "Technical Expertise",
+                "External Dependencies",
+                "Stakeholder Engagement"
+            ],
+            "ticktext": [
+                "Task Completion",
+                "Resource Availability",
+                "Team Collaboration",
+                "Budget Management",
+                "Risk Assessment",
+                "Quality Assurance",
+                "Communication",
+                "Project Scope",
+                "Technical Expertise",
+                "External Dependencies",
+                "Stakeholder Engagement"
+            ]
+        }
+    },
+    "title": {
+        "text": "Project Deadline Countdown: Weekly Progress",
+        "font": {
+            "size": 18
+        }
+    },
+    "showlegend": true,
+    "annotations": [
+        {
+            "x": 0.5,
+            "y": 0.5,
+            "xref": "paper",
+            "yref": "paper",
+            "text": "Early Plateau observed in some areas",
+            "showarrow": false
+        }
+    ]
+}

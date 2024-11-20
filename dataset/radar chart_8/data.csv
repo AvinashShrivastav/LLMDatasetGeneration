@@ -1,0 +1,14 @@
+Coverage,Average Monthly Premiums,Minimum Monthly Premiums,Maximum Monthly Premiums
+Homeowners,1200,1000,1400
+Renters,1500,1300,1700
+Condo,1300,1100,1500
+Flood,1700,1500,1900
+Earthquake,2000,1800,2200
+Wind,2500,2200,2800
+Hail,2300,2000,2600
+Fire,1800,1500,2100
+Theft,1600,1300,1900
+Liability,1400,1100,1700
+Medical,1100,800,1400
+Personal Property,900,600,1200
+Other,1000,700,1300

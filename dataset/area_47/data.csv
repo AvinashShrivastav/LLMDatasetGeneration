@@ -1,0 +1,22 @@
+Day, Commute Time (minutes), Mode
+Monday, 35, Car
+Tuesday, 38, Car
+Wednesday, 42, Car
+Thursday, 45, Car
+Friday, 40, Car
+Saturday, 25, Car
+Sunday, 20, Car
+Monday, 40, Public Transport
+Tuesday, 45, Public Transport
+Wednesday, 50, Public Transport
+Thursday, 55, Public Transport
+Friday, 50, Public Transport
+Saturday, 35, Public Transport
+Sunday, 30, Public Transport
+Monday, 15, Cycling
+Tuesday, 18, Cycling
+Wednesday, 20, Cycling
+Thursday, 25, Cycling
+Friday, 20, Cycling
+Saturday, 10, Cycling
+Sunday, 5, Cycling

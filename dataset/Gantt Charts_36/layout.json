@@ -1,0 +1,16 @@
+{
+    "title": {
+        "text": "Cultural Event Attendance Planning",
+        "font": {
+            "size": 18
+        }
+    },
+    "xaxis": {
+        "title": "Timeline",
+        "type": "date"
+    },
+    "yaxis": {
+        "title": "Events"
+    },
+    "bargap": 0.2
+}

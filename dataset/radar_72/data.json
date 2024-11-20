@@ -1,0 +1,64 @@
+[
+    {
+        "type": "scatterpolar",
+        "r": [
+            750,
+            740,
+            730,
+            690,
+            700,
+            710,
+            720
+        ],
+        "theta": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July"
+        ],
+        "mode": "lines+markers",
+        "name": "Credit Score",
+        "marker": {
+            "size": 8,
+            "color": "blue"
+        },
+        "line": {
+            "color": "blue",
+            "width": 2
+        }
+    },
+    {
+        "type": "scatterpolar",
+        "r": [
+            740,
+            720,
+            680,
+            660,
+            700,
+            690,
+            710
+        ],
+        "theta": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July"
+        ],
+        "mode": "lines+markers",
+        "name": "Average Score",
+        "marker": {
+            "size": 8,
+            "color": "red"
+        },
+        "line": {
+            "color": "red",
+            "width": 2
+        }
+    }
+]

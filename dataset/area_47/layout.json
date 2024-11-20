@@ -1,0 +1,45 @@
+{
+    "title": {
+        "text": "Weekly Commute Time by Transportation Mode",
+        "font": {
+            "size": 18
+        }
+    },
+    "xaxis": {
+        "title": "Day of the Week",
+        "categoryorder": "array",
+        "categoryarray": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+        ]
+    },
+    "yaxis": {
+        "title": "Commute Time (minutes)",
+        "rangemode": "tozero"
+    },
+    "showlegend": true,
+    "annotations": [
+        {
+            "x": "Saturday",
+            "y": 25,
+            "xref": "x",
+            "yref": "y",
+            "text": "Weekend Commute",
+            "showarrow": true,
+            "arrowhead": 7,
+            "ax": 0,
+            "ay": -40
+        }
+    ],
+    "margin": {
+        "l": 50,
+        "r": 50,
+        "b": 100,
+        "t": 100
+    }
+}

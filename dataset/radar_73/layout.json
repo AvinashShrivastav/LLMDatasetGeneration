@@ -1,0 +1,85 @@
+{
+    "polar": {
+        "radialaxis": {
+            "visible": true,
+            "range": [
+                0,
+                15
+            ],
+            "title": {
+                "text": "Value"
+            }
+        },
+        "angularaxis": {
+            "tickmode": "array",
+            "tickvals": [
+                "Sleep Duration (Hours)",
+                "Sleep Quality (Score)",
+                "Wake-up Time (Hour)",
+                "Bedtime (Hour)",
+                "Stress Level (Score)",
+                "Caffeine Intake (mg)",
+                "Exercise Time (Minutes)",
+                "Screen Time (Hours)",
+                "Sleep Latency (Minutes)",
+                "Sleep Efficiency (%)",
+                "REM Sleep (Minutes)",
+                "Deep Sleep (Minutes)"
+            ],
+            "ticktext": [
+                "Duration",
+                "Quality",
+                "Wake Time",
+                "Bed Time",
+                "Stress",
+                "Caffeine",
+                "Exercise",
+                "Screen Time",
+                "Latency",
+                "Efficiency",
+                "REM Sleep",
+                "Deep Sleep"
+            ]
+        }
+    },
+    "title": {
+        "text": "Sleep Pattern Analysis Across Three Weeks",
+        "font": {
+            "size": 18
+        }
+    },
+    "legend": {
+        "orientation": "h",
+        "x": 0.5,
+        "y": -0.15,
+        "xanchor": "center"
+    },
+    "annotations": [
+        {
+            "x": "Sleep Quality (Score)",
+            "y": 9,
+            "xref": "x",
+            "yref": "y",
+            "text": "Week 3 - High Sleep Quality",
+            "showarrow": true,
+            "arrowhead": 0,
+            "ax": 0,
+            "ay": -40
+        },
+        {
+            "x": "Screen Time (Hours)",
+            "y": 6,
+            "xref": "x",
+            "yref": "y",
+            "text": "Week 2 - Low Screen Time",
+            "showarrow": true,
+            "arrowhead": 0,
+            "ax": 0,
+            "ay": -40
+        }
+    ],
+    "margin": {
+        "t": 50,
+        "b": 50
+    }
+}

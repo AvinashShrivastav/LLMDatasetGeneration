@@ -1,0 +1,9 @@
+{
+    "title": "Sample Radar Chart",
+    "xaxis": {
+        "title": "X Axis"
+    },
+    "yaxis": {
+        "title": "Y Axis"
+    }
+}

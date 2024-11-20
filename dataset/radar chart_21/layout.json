@@ -1,0 +1,69 @@
+{
+    "polar": {
+        "radialaxis": {
+            "visible": true,
+            "range": [
+                0,
+                40
+            ],
+            "title": {
+                "text": "Popularity"
+            }
+        },
+        "angularaxis": {
+            "tickmode": "array",
+            "tickvals": [
+                "Gift Wrapping",
+                "Gift Cards",
+                "Personalized Gifts",
+                "Experiences",
+                "Home Decor",
+                "Electronics",
+                "Clothing & Accessories",
+                "Subscription Boxes"
+            ],
+            "ticktext": [
+                "Gift Wrapping",
+                "Gift Cards",
+                "Personalized Gifts",
+                "Experiences",
+                "Home Decor",
+                "Electronics",
+                "Clothing & Accessories",
+                "Subscription Boxes"
+            ]
+        }
+    },
+    "title": {
+        "text": "Gift Shopping Trends by Adoption Curve",
+        "font": {
+            "size": 18
+        }
+    },
+    "legend": {
+        "orientation": "h",
+        "x": 0.5,
+        "y": 1.1,
+        "xanchor": "center"
+    },
+    "annotations": [
+        {
+            "x": "Gift Cards",
+            "y": 35,
+            "xref": "x",
+            "yref": "y",
+            "text": "Outlier: Gift Cards are consistently popular",
+            "showarrow": true,
+            "arrowhead": 7
+        },
+        {
+            "x": "Electronics",
+            "y": 28,
+            "xref": "x",
+            "yref": "y",
+            "text": "High Adoption: Electronics are popular across groups",
+            "showarrow": true,
+            "arrowhead": 7
+        }
+    ]
+}

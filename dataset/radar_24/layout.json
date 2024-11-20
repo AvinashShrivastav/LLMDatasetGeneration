@@ -1,0 +1,69 @@
+{
+    "polar": {
+        "radialaxis": {
+            "visible": true,
+            "range": [
+                0,
+                25
+            ],
+            "title": {
+                "text": "Number of Reminders"
+            }
+        },
+        "angularaxis": {
+            "tickmode": "array",
+            "tickvals": [
+                "January",
+                "February",
+                "March",
+                "April",
+                "May",
+                "June",
+                "July",
+                "August",
+                "September",
+                "October",
+                "November"
+            ],
+            "ticktext": [
+                "January",
+                "February",
+                "March",
+                "April",
+                "May",
+                "June",
+                "July",
+                "August",
+                "September",
+                "October",
+                "November"
+            ]
+        }
+    },
+    "title": {
+        "text": "Birthday and Anniversary Reminders Throughout the Year",
+        "font": {
+            "size": 18
+        }
+    },
+    "legend": {
+        "x": 0.8,
+        "y": 0.9
+    },
+    "annotations": [
+        {
+            "x": "May",
+            "y": 22,
+            "text": "High number of Birthdays in May",
+            "showarrow": true,
+            "arrowhead": 7
+        },
+        {
+            "x": "August",
+            "y": 10,
+            "text": "Low number of Anniversaries in August",
+            "showarrow": true,
+            "arrowhead": 7
+        }
+    ]
+}

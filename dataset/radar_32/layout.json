@@ -1,0 +1,52 @@
+{
+    "title": {
+        "text": "Family Tree Research Progress: Radar Chart",
+        "font": {
+            "size": 18
+        }
+    },
+    "polar": {
+        "radialaxis": {
+            "visible": true,
+            "range": [
+                0,
+                30
+            ],
+            "title": {
+                "text": "Progress (in Units)"
+            }
+        },
+        "angularaxis": {
+            "tickmode": "array",
+            "tickvals": [
+                "Genealogy",
+                "Birth Records",
+                "Immigration Records",
+                "Census Data",
+                "Military Records",
+                "Land Records"
+            ],
+            "ticktext": [
+                "Genealogy",
+                "Birth Records",
+                "Immigration Records",
+                "Census Data",
+                "Military Records",
+                "Land Records"
+            ]
+        }
+    },
+    "annotations": [
+        {
+            "xref": "paper",
+            "yref": "paper",
+            "x": 0.5,
+            "y": 0.5,
+            "text": "Outlier: Birth Records research is ahead of expectations",
+            "showarrow": true,
+            "arrowhead": 7,
+            "ax": 0,
+            "ay": -40
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": {
+        "text": "Travel Itinerary Price Trend (OHLC)",
+        "font": {
+            "size": 18
+        }
+    },
+    "xaxis": {
+        "title": "Date",
+        "tickformat": "%Y-%m-%d"
+    },
+    "yaxis": {
+        "title": "Price (USD)"
+    },
+    "annotations": [
+        {
+            "x": "2023-10-29",
+            "y": 1650,
+            "xref": "x",
+            "yref": "y",
+            "text": "Peak Price",
+            "showarrow": true,
+            "arrowhead": 7,
+            "ax": 0,
+            "ay": -40
+        },
+        {
+            "x": "2023-11-02",
+            "y": 1250,
+            "xref": "x",
+            "yref": "y",
+            "text": "Significant Drop",
+            "showarrow": true,
+            "arrowhead": 7,
+            "ax": 0,
+            "ay": 40
+        }
+    ],
+    "margin": {
+        "l": 50,
+        "r": 50,
+        "b": 50,
+        "t": 100
+    }
+}

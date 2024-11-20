@@ -1,0 +1,73 @@
+{
+    "polar": {
+        "radialaxis": {
+            "visible": true,
+            "range": [
+                0,
+                3000
+            ],
+            "title": {
+                "text": "Monthly Premium (USD)"
+            }
+        },
+        "angularaxis": {
+            "tickmode": "array",
+            "tickvals": [
+                "Homeowners",
+                "Renters",
+                "Condo",
+                "Flood",
+                "Earthquake",
+                "Wind",
+                "Hail",
+                "Fire",
+                "Theft",
+                "Liability",
+                "Medical",
+                "Personal Property",
+                "Other"
+            ],
+            "ticktext": [
+                "Homeowners",
+                "Renters",
+                "Condo",
+                "Flood",
+                "Earthquake",
+                "Wind",
+                "Hail",
+                "Fire",
+                "Theft",
+                "Liability",
+                "Medical",
+                "Personal Property",
+                "Other"
+            ]
+        }
+    },
+    "title": {
+        "text": "Home Insurance Coverage Overview: Average, Minimum, and Maximum Monthly Premiums",
+        "font": {
+            "size": 18
+        }
+    },
+    "showlegend": true,
+    "annotations": [
+        {
+            "x": 0.5,
+            "y": 0.5,
+            "xref": "paper",
+            "yref": "paper",
+            "text": "Earthquake Coverage Shows Significant Variation",
+            "showarrow": true,
+            "arrowhead": 7,
+            "ax": 0,
+            "ay": -40
+        }
+    ],
+    "margin": {
+        "l": 50,
+        "r": 50,
+        "b": 50,
+        "t": 100
+    }
+}

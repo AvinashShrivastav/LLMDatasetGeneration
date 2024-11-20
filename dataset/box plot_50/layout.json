@@ -1,0 +1,59 @@
+{
+    "title": {
+        "text": "Technology Upgrade Timeline: Investment Growth",
+        "font": {
+            "size": 18
+        }
+    },
+    "xaxis": {
+        "title": "Year",
+        "tickvals": [
+            "Year 2015",
+            "Year 2016",
+            "Year 2017",
+            "Year 2018",
+            "Year 2019",
+            "Year 2020",
+            "Year 2021"
+        ],
+        "tickangle": -45
+    },
+    "yaxis": {
+        "title": "Investment (in Millions USD)",
+        "showgrid": true,
+        "gridcolor": "lightgray"
+    },
+    "boxmode": "group",
+    "showlegend": false,
+    "margin": {
+        "l": 50,
+        "r": 50,
+        "b": 100,
+        "t": 100,
+        "pad": 4
+    },
+    "annotations": [
+        {
+            "x": "Year 2017",
+            "y": 250,
+            "xref": "x",
+            "yref": "y",
+            "text": "Significant outlier in 2017",
+            "showarrow": true,
+            "arrowhead": 7,
+            "ax": 0,
+            "ay": -40
+        },
+        {
+            "x": "Year 2018",
+            "y": 320,
+            "xref": "x",
+            "yref": "y",
+            "text": "Outlier indicating a major upgrade",
+            "showarrow": true,
+            "arrowhead": 7,
+            "ax": 0,
+            "ay": -40
+        }
+    ]
+}

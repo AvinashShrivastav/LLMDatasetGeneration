@@ -1,0 +1,26 @@
+[
+    {
+        "stage": "Idea Generation",
+        "value": 100
+    },
+    {
+        "stage": "Task Planning",
+        "value": 75
+    },
+    {
+        "stage": "Work in Progress",
+        "value": 60
+    },
+    {
+        "stage": "Quality Review",
+        "value": 45
+    },
+    {
+        "stage": "Finalization",
+        "value": 35
+    },
+    {
+        "stage": "Completion",
+        "value": 20
+    }
+]

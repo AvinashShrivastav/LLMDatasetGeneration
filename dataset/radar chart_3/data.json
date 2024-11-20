@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Emergency Supplies",
+        "First Aid Kit": 95,
+        "Water": 85,
+        "Food": 70,
+        "Shelter": 90
+    },
+    {
+        "name": "Communication",
+        "Cell Phone": 80,
+        "Radio": 60,
+        "Emergency Contacts": 90,
+        "Satellite Phone": 5
+    },
+    {
+        "name": "Safety",
+        "Fire Extinguisher": 85,
+        "Flashlight": 90,
+        "Whistle": 75,
+        "Emergency Blanket": 80
+    },
+    {
+        "name": "Preparedness",
+        "Evacuation Plan": 95,
+        "Emergency Kit": 80,
+        "Training": 70,
+        "Survival Skills": 65
+    }
+]

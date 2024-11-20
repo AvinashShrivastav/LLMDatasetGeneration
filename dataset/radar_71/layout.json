@@ -1,0 +1,63 @@
+{
+    "polar": {
+        "radialaxis": {
+            "visible": true,
+            "range": [
+                0,
+                30
+            ],
+            "title": {
+                "text": "Completion Percentage (%)"
+            }
+        },
+        "angularaxis": {
+            "tickmode": "array",
+            "tickvals": [
+                "Requirement Gathering",
+                "Design",
+                "Development",
+                "Testing",
+                "Deployment",
+                "Documentation",
+                "Training",
+                "Support",
+                "Maintenance",
+                "Project Management",
+                "Risk Management"
+            ],
+            "ticktext": [
+                "Requirement Gathering",
+                "Design",
+                "Development",
+                "Testing",
+                "Deployment",
+                "Documentation",
+                "Training",
+                "Support",
+                "Maintenance",
+                "Project Management",
+                "Risk Management"
+            ],
+            "direction": "clockwise"
+        }
+    },
+    "title": {
+        "text": "Work Project Milestones Progress",
+        "font": {
+            "size": 18
+        }
+    },
+    "annotations": [
+        {
+            "x": 0.5,
+            "y": 0.5,
+            "xref": "paper",
+            "yref": "paper",
+            "text": "Oversold Condition",
+            "showarrow": false,
+            "font": {
+                "size": 14
+            }
+        }
+    ]
+}

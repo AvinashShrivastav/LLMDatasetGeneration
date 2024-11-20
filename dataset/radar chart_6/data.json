@@ -1,0 +1,62 @@
+[
+    {
+        "Month": "January",
+        "Oil Change": 20,
+        "Tire Rotation": 15,
+        "Brake Inspection": 18,
+        "Air Filter": 12,
+        "Battery Check": 16,
+        "Fluid Check": 19,
+        "Windshield Wiper": 14,
+        "Light Bulb": 11,
+        "Other": 13
+    },
+    {
+        "Month": "February",
+        "Oil Change": 22,
+        "Tire Rotation": 16,
+        "Brake Inspection": 20,
+        "Air Filter": 14,
+        "Battery Check": 18,
+        "Fluid Check": 21,
+        "Windshield Wiper": 15,
+        "Light Bulb": 12,
+        "Other": 15
+    },
+    {
+        "Month": "March",
+        "Oil Change": 25,
+        "Tire Rotation": 18,
+        "Brake Inspection": 22,
+        "Air Filter": 16,
+        "Battery Check": 20,
+        "Fluid Check": 23,
+        "Windshield Wiper": 17,
+        "Light Bulb": 13,
+        "Other": 17
+    },
+    {
+        "Month": "April",
+        "Oil Change": 28,
+        "Tire Rotation": 20,
+        "Brake Inspection": 24,
+        "Air Filter": 18,
+        "Battery Check": 22,
+        "Fluid Check": 25,
+        "Windshield Wiper": 19,
+        "Light Bulb": 15,
+        "Other": 19
+    },
+    {
+        "Month": "May",
+        "Oil Change": 35,
+        "Tire Rotation": 25,
+        "Brake Inspection": 28,
+        "Air Filter": 22,
+        "Battery Check": 26,
+        "Fluid Check": 29,
+        "Windshield Wiper": 23,
+        "Light Bulb": 18,
+        "Other": 22
+    }
+]

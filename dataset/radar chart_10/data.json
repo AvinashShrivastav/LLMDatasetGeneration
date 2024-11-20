@@ -1,0 +1,166 @@
+[
+    {
+        "type": "scatterpolar",
+        "r": [
+            15,
+            20,
+            18,
+            25,
+            22,
+            16,
+            14,
+            12,
+            18,
+            21,
+            28,
+            24
+        ],
+        "theta": [
+            "Watering",
+            "Fertilizing",
+            "Weeding",
+            "Pruning",
+            "Pest Control",
+            "Harvesting",
+            "Composting",
+            "Soil Testing",
+            "Seed Starting",
+            "Planting",
+            "Mulching",
+            "Winterizing"
+        ],
+        "mode": "lines+markers",
+        "name": "Week 1",
+        "marker": {
+            "size": 8,
+            "color": "blue"
+        },
+        "line": {
+            "color": "blue",
+            "width": 2
+        }
+    },
+    {
+        "type": "scatterpolar",
+        "r": [
+            18,
+            25,
+            22,
+            28,
+            30,
+            18,
+            16,
+            14,
+            20,
+            23,
+            26,
+            22
+        ],
+        "theta": [
+            "Watering",
+            "Fertilizing",
+            "Weeding",
+            "Pruning",
+            "Pest Control",
+            "Harvesting",
+            "Composting",
+            "Soil Testing",
+            "Seed Starting",
+            "Planting",
+            "Mulching",
+            "Winterizing"
+        ],
+        "mode": "lines+markers",
+        "name": "Week 2",
+        "marker": {
+            "size": 8,
+            "color": "green"
+        },
+        "line": {
+            "color": "green",
+            "width": 2
+        }
+    },
+    {
+        "type": "scatterpolar",
+        "r": [
+            22,
+            30,
+            28,
+            35,
+            40,
+            24,
+            20,
+            18,
+            25,
+            28,
+            32,
+            28
+        ],
+        "theta": [
+            "Watering",
+            "Fertilizing",
+            "Weeding",
+            "Pruning",
+            "Pest Control",
+            "Harvesting",
+            "Composting",
+            "Soil Testing",
+            "Seed Starting",
+            "Planting",
+            "Mulching",
+            "Winterizing"
+        ],
+        "mode": "lines+markers",
+        "name": "Week 3",
+        "marker": {
+            "size": 8,
+            "color": "red"
+        },
+        "line": {
+            "color": "red",
+            "width": 2
+        }
+    },
+    {
+        "type": "scatterpolar",
+        "r": [
+            15,
+            18,
+            16,
+            20,
+            22,
+            14,
+            12,
+            10,
+            16,
+            18,
+            20,
+            18
+        ],
+        "theta": [
+            "Watering",
+            "Fertilizing",
+            "Weeding",
+            "Pruning",
+            "Pest Control",
+            "Harvesting",
+            "Composting",
+            "Soil Testing",
+            "Seed Starting",
+            "Planting",
+            "Mulching",
+            "Winterizing"
+        ],
+        "mode": "lines+markers",
+        "name": "Week 4",
+        "marker": {
+            "size": 8,
+            "color": "purple"
+        },
+        "line": {
+            "color": "purple",
+            "width": 2
+        }
+    }
+]

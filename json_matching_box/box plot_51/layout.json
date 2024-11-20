@@ -1,0 +1,39 @@
+{
+    "title": {
+        "text": "Daily Journal Summary - Box Plot",
+        "font": {
+            "size": 18
+        }
+    },
+    "xaxis": {
+        "title": "Journal Category",
+        "tickangle": -45
+    },
+    "yaxis": {
+        "title": "Rating (1-10)",
+        "range": [
+            0,
+            12
+        ]
+    },
+    "showlegend": false,
+    "annotations": [
+        {
+            "x": "Sleep",
+            "y": 12,
+            "xref": "x",
+            "yref": "y",
+            "text": "Outlier",
+            "showarrow": true,
+            "arrowhead": 7,
+            "ax": 0,
+            "ay": -40
+        }
+    ],
+    "margin": {
+        "t": 50,
+        "b": 100,
+        "l": 50,
+        "r": 50
+    }
+}

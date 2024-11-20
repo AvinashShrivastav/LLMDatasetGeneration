@@ -1,0 +1,80 @@
+[
+    {
+        "type": "scatterpolar",
+        "r": [
+            10,
+            15,
+            13,
+            17,
+            20,
+            18,
+            14,
+            12,
+            16,
+            19,
+            22
+        ],
+        "theta": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November"
+        ],
+        "mode": "lines+markers",
+        "name": "Birthday Reminders",
+        "marker": {
+            "size": 8,
+            "color": "blue"
+        },
+        "line": {
+            "color": "blue",
+            "width": 2
+        }
+    },
+    {
+        "type": "scatterpolar",
+        "r": [
+            12,
+            18,
+            16,
+            14,
+            22,
+            20,
+            16,
+            18,
+            12,
+            10,
+            15
+        ],
+        "theta": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November"
+        ],
+        "mode": "lines+markers",
+        "name": "Anniversary Reminders",
+        "marker": {
+            "size": 8,
+            "color": "red"
+        },
+        "line": {
+            "color": "red",
+            "width": 2
+        }
+    }
+]

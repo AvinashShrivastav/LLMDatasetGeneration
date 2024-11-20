@@ -1,0 +1,98 @@
+[
+    {
+        "Event": "Music Festival",
+        "Planning": "2024-01-15",
+        "Marketing": "2024-02-15",
+        "Venue Setup": "2024-03-15",
+        "Event Day": "2024-04-15",
+        "Post-Event": "2024-05-15"
+    },
+    {
+        "Event": "Art Exhibition",
+        "Planning": "2024-02-01",
+        "Marketing": "2024-02-28",
+        "Venue Setup": "2024-03-28",
+        "Event Day": "2024-04-28",
+        "Post-Event": "2024-05-28"
+    },
+    {
+        "Event": "Theater Performance",
+        "Planning": "2024-01-01",
+        "Marketing": "2024-02-01",
+        "Venue Setup": "2024-03-01",
+        "Event Day": "2024-04-01",
+        "Post-Event": "2024-05-01"
+    },
+    {
+        "Event": "Film Festival",
+        "Planning": "2024-01-15",
+        "Marketing": "2024-02-15",
+        "Venue Setup": "2024-03-15",
+        "Event Day": "2024-04-15",
+        "Post-Event": "2024-05-15"
+    },
+    {
+        "Event": "Food Festival",
+        "Planning": "2024-02-01",
+        "Marketing": "2024-02-28",
+        "Venue Setup": "2024-03-28",
+        "Event Day": "2024-04-28",
+        "Post-Event": "2024-05-28"
+    },
+    {
+        "Event": "Cultural Parade",
+        "Planning": "2024-01-15",
+        "Marketing": "2024-02-15",
+        "Venue Setup": "2024-03-15",
+        "Event Day": "2024-04-15",
+        "Post-Event": "2024-05-15"
+    },
+    {
+        "Event": "Historical Reenactment",
+        "Planning": "2024-01-15",
+        "Marketing": "2024-02-15",
+        "Venue Setup": "2024-03-15",
+        "Event Day": "2024-04-15",
+        "Post-Event": "2024-05-15"
+    },
+    {
+        "Event": "Dance Performance",
+        "Planning": "2024-02-01",
+        "Marketing": "2024-02-28",
+        "Venue Setup": "2024-03-28",
+        "Event Day": "2024-04-28",
+        "Post-Event": "2024-05-28"
+    },
+    {
+        "Event": "Poetry Reading",
+        "Planning": "2024-01-01",
+        "Marketing": "2024-02-01",
+        "Venue Setup": "2024-03-01",
+        "Event Day": "2024-04-01",
+        "Post-Event": "2024-05-01"
+    },
+    {
+        "Event": "Craft Fair",
+        "Planning": "2024-01-15",
+        "Marketing": "2024-02-15",
+        "Venue Setup": "2024-03-15",
+        "Event Day": "2024-04-15",
+        "Post-Event": "2024-05-15"
+    },
+    {
+        "Event": "Book Signing",
+        "Planning": "2024-02-01",
+        "Marketing": "2024-02-28",
+        "Venue Setup": "2024-03-28",
+        "Event Day": "2024-04-28",
+        "Post-Event": "2024-05-28"
+    },
+    {
+        "Event": "Fashion Show",
+        "Planning": "2024-01-01",
+        "Marketing": "2024-02-01",
+        "Venue Setup": "2024-03-01",
+        "Event Day": "2024-04-01",
+        "Post-Event": "2024-05-01"
+    }
+]

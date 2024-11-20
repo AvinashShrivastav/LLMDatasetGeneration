@@ -1,0 +1,84 @@
+[
+    {
+        "type": "scatterpolar",
+        "r": [
+            15000,
+            12000,
+            18000,
+            16000,
+            13000,
+            17000,
+            14000,
+            19000,
+            11000,
+            15000,
+            12000,
+            18000
+        ],
+        "theta": [
+            "Housing",
+            "Food",
+            "Transportation",
+            "Healthcare",
+            "Entertainment",
+            "Education",
+            "Utilities",
+            "Personal",
+            "Travel",
+            "Clothing",
+            "Savings",
+            "Other"
+        ],
+        "mode": "lines+markers",
+        "name": "Income",
+        "marker": {
+            "size": 8,
+            "color": "green"
+        },
+        "line": {
+            "color": "green",
+            "width": 2
+        }
+    },
+    {
+        "type": "scatterpolar",
+        "r": [
+            12000,
+            10000,
+            14000,
+            13000,
+            11000,
+            12000,
+            10000,
+            15000,
+            9000,
+            11000,
+            9000,
+            13000
+        ],
+        "theta": [
+            "Housing",
+            "Food",
+            "Transportation",
+            "Healthcare",
+            "Entertainment",
+            "Education",
+            "Utilities",
+            "Personal",
+            "Travel",
+            "Clothing",
+            "Savings",
+            "Other"
+        ],
+        "mode": "lines+markers",
+        "name": "Expense",
+        "marker": {
+            "size": 8,
+            "color": "red"
+        },
+        "line": {
+            "color": "red",
+            "width": 2
+        }
+    }
+]

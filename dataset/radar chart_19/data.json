@@ -1,0 +1,68 @@
+[
+    {
+        "type": "scatterpolar",
+        "r": [
+            15,
+            18,
+            12,
+            10,
+            25,
+            17,
+            13,
+            19
+        ],
+        "theta": [
+            "Fiction",
+            "Non-Fiction",
+            "Children's",
+            "Biography",
+            "History",
+            "Science",
+            "Technology",
+            "Arts"
+        ],
+        "mode": "lines+markers",
+        "name": "Loan Count",
+        "marker": {
+            "size": 8,
+            "color": "blue"
+        },
+        "line": {
+            "color": "blue",
+            "width": 2
+        }
+    },
+    {
+        "type": "scatterpolar",
+        "r": [
+            10,
+            12,
+            15,
+            8,
+            11,
+            9,
+            13,
+            14
+        ],
+        "theta": [
+            "Fiction",
+            "Non-Fiction",
+            "Children's",
+            "Biography",
+            "History",
+            "Science",
+            "Technology",
+            "Arts"
+        ],
+        "mode": "lines+markers",
+        "name": "Overdue Count",
+        "marker": {
+            "size": 8,
+            "color": "red"
+        },
+        "line": {
+            "color": "red",
+            "width": 2
+        }
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "type": "scatterpolar",
+        "r": [
+            8,
+            12,
+            10,
+            15,
+            18,
+            16,
+            20,
+            14,
+            22
+        ],
+        "theta": [
+            "Communication",
+            "Evacuation Plan",
+            "First Aid",
+            "Food & Water",
+            "Shelter",
+            "Emergency Kit",
+            "Security",
+            "Financial Plan",
+            "Insurance"
+        ],
+        "mode": "lines+markers",
+        "name": "Preparedness Level",
+        "marker": {
+            "size": 8,
+            "color": "blue"
+        },
+        "line": {
+            "color": "blue",
+            "width": 2
+        }
+    }
+]

@@ -1,0 +1,30 @@
+{
+    "title": {
+        "text": "Online Shopping Order Fulfillment Waterfall Chart",
+        "font": {
+            "size": 18
+        }
+    },
+    "xaxis": {
+        "title": "Order Stages",
+        "tickangle": -45
+    },
+    "yaxis": {
+        "title": "Value (in USD)",
+        "tickprefix": "$"
+    },
+    "annotations": [
+        {
+            "x": "Shipping Delay",
+            "y": -300,
+            "xref": "x",
+            "yref": "y",
+            "text": "Significant Delay",
+            "showarrow": true,
+            "arrowhead": 7,
+            "ax": 0,
+            "ay": -40
+        }
+    ],
+    "bargap": 0.2
+}

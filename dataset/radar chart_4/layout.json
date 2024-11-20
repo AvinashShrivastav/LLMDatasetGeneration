@@ -1,0 +1,54 @@
+{
+    "title": {
+        "text": "Weekend Activity Planner",
+        "font": {
+            "size": 24
+        }
+    },
+    "xaxis": {
+        "title": {
+            "text": "Day of the Week",
+            "font": {
+                "size": 18
+            }
+        }
+    },
+    "yaxis": {
+        "title": {
+            "text": "Time of Day",
+            "font": {
+                "size": 18
+            }
+        }
+    },
+    "annotations": [
+        {
+            "x": "Saturday",
+            "y": "Night",
+            "xref": "x",
+            "yref": "y",
+            "text": "Peak activity on Saturday night",
+            "showarrow": true,
+            "arrowhead": 7,
+            "ax": 0,
+            "ay": -40
+        },
+        {
+            "x": "Sunday",
+            "y": "Night",
+            "xref": "x",
+            "yref": "y",
+            "text": "High activity on Sunday night",
+            "showarrow": true,
+            "arrowhead": 7,
+            "ax": 0,
+            "ay": -40
+        }
+    ],
+    "margin": {
+        "l": 100,
+        "r": 100,
+        "b": 100,
+        "t": 100
+    }
+}

@@ -1,0 +1,38 @@
+[
+    {
+        "Item": "Kitchen Utensils",
+        "Quantity": 15
+    },
+    {
+        "Item": "Cleaning Supplies",
+        "Quantity": 10
+    },
+    {
+        "Item": "Bathroom Essentials",
+        "Quantity": 8
+    },
+    {
+        "Item": "First Aid Kit",
+        "Quantity": 5
+    },
+    {
+        "Item": "Electronics",
+        "Quantity": 3
+    },
+    {
+        "Item": "Tools",
+        "Quantity": 12
+    },
+    {
+        "Item": "Office Supplies",
+        "Quantity": 7
+    },
+    {
+        "Item": "Gardening Equipment",
+        "Quantity": 20
+    },
+    {
+        "Item": "Outdoor Furniture",
+        "Quantity": 2
+    }
+]

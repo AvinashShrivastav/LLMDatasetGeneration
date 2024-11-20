@@ -1,0 +1,431 @@
+[
+    {
+        "type": "scatterpolar",
+        "r": [
+            15,
+            20,
+            18,
+            22,
+            25,
+            28,
+            26,
+            24,
+            22,
+            20,
+            18
+        ],
+        "theta": [
+            "Problem Solving",
+            "Communication",
+            "Teamwork",
+            "Time Management",
+            "Adaptability",
+            "Creativity",
+            "Leadership",
+            "Decision Making",
+            "Critical Thinking",
+            "Negotiation",
+            "Conflict Resolution"
+        ],
+        "mode": "lines+markers",
+        "name": "Skill Level (Week 1)",
+        "marker": {
+            "size": 8,
+            "color": "blue"
+        },
+        "line": {
+            "color": "blue",
+            "width": 2
+        }
+    },
+    {
+        "type": "scatterpolar",
+        "r": [
+            18,
+            22,
+            20,
+            25,
+            28,
+            30,
+            28,
+            26,
+            24,
+            22,
+            20
+        ],
+        "theta": [
+            "Problem Solving",
+            "Communication",
+            "Teamwork",
+            "Time Management",
+            "Adaptability",
+            "Creativity",
+            "Leadership",
+            "Decision Making",
+            "Critical Thinking",
+            "Negotiation",
+            "Conflict Resolution"
+        ],
+        "mode": "lines+markers",
+        "name": "Skill Level (Week 2)",
+        "marker": {
+            "size": 8,
+            "color": "green"
+        },
+        "line": {
+            "color": "green",
+            "width": 2
+        }
+    },
+    {
+        "type": "scatterpolar",
+        "r": [
+            20,
+            25,
+            22,
+            28,
+            30,
+            32,
+            30,
+            28,
+            26,
+            24,
+            22
+        ],
+        "theta": [
+            "Problem Solving",
+            "Communication",
+            "Teamwork",
+            "Time Management",
+            "Adaptability",
+            "Creativity",
+            "Leadership",
+            "Decision Making",
+            "Critical Thinking",
+            "Negotiation",
+            "Conflict Resolution"
+        ],
+        "mode": "lines+markers",
+        "name": "Skill Level (Week 3)",
+        "marker": {
+            "size": 8,
+            "color": "orange"
+        },
+        "line": {
+            "color": "orange",
+            "width": 2
+        }
+    },
+    {
+        "type": "scatterpolar",
+        "r": [
+            22,
+            28,
+            24,
+            30,
+            32,
+            34,
+            32,
+            30,
+            28,
+            26,
+            24
+        ],
+        "theta": [
+            "Problem Solving",
+            "Communication",
+            "Teamwork",
+            "Time Management",
+            "Adaptability",
+            "Creativity",
+            "Leadership",
+            "Decision Making",
+            "Critical Thinking",
+            "Negotiation",
+            "Conflict Resolution"
+        ],
+        "mode": "lines+markers",
+        "name": "Skill Level (Week 4)",
+        "marker": {
+            "size": 8,
+            "color": "red"
+        },
+        "line": {
+            "color": "red",
+            "width": 2
+        }
+    },
+    {
+        "type": "scatterpolar",
+        "r": [
+            24,
+            30,
+            26,
+            32,
+            34,
+            36,
+            34,
+            32,
+            30,
+            28,
+            26
+        ],
+        "theta": [
+            "Problem Solving",
+            "Communication",
+            "Teamwork",
+            "Time Management",
+            "Adaptability",
+            "Creativity",
+            "Leadership",
+            "Decision Making",
+            "Critical Thinking",
+            "Negotiation",
+            "Conflict Resolution"
+        ],
+        "mode": "lines+markers",
+        "name": "Skill Level (Week 5)",
+        "marker": {
+            "size": 8,
+            "color": "purple"
+        },
+        "line": {
+            "color": "purple",
+            "width": 2
+        }
+    },
+    {
+        "type": "scatterpolar",
+        "r": [
+            26,
+            32,
+            28,
+            34,
+            36,
+            38,
+            36,
+            34,
+            32,
+            30,
+            28
+        ],
+        "theta": [
+            "Problem Solving",
+            "Communication",
+            "Teamwork",
+            "Time Management",
+            "Adaptability",
+            "Creativity",
+            "Leadership",
+            "Decision Making",
+            "Critical Thinking",
+            "Negotiation",
+            "Conflict Resolution"
+        ],
+        "mode": "lines+markers",
+        "name": "Skill Level (Week 6)",
+        "marker": {
+            "size": 8,
+            "color": "brown"
+        },
+        "line": {
+            "color": "brown",
+            "width": 2
+        }
+    },
+    {
+        "type": "scatterpolar",
+        "r": [
+            28,
+            34,
+            30,
+            36,
+            38,
+            40,
+            38,
+            36,
+            34,
+            32,
+            30
+        ],
+        "theta": [
+            "Problem Solving",
+            "Communication",
+            "Teamwork",
+            "Time Management",
+            "Adaptability",
+            "Creativity",
+            "Leadership",
+            "Decision Making",
+            "Critical Thinking",
+            "Negotiation",
+            "Conflict Resolution"
+        ],
+        "mode": "lines+markers",
+        "name": "Skill Level (Week 7)",
+        "marker": {
+            "size": 8,
+            "color": "pink"
+        },
+        "line": {
+            "color": "pink",
+            "width": 2
+        }
+    },
+    {
+        "type": "scatterpolar",
+        "r": [
+            30,
+            36,
+            32,
+            38,
+            40,
+            42,
+            40,
+            38,
+            36,
+            34,
+            32
+        ],
+        "theta": [
+            "Problem Solving",
+            "Communication",
+            "Teamwork",
+            "Time Management",
+            "Adaptability",
+            "Creativity",
+            "Leadership",
+            "Decision Making",
+            "Critical Thinking",
+            "Negotiation",
+            "Conflict Resolution"
+        ],
+        "mode": "lines+markers",
+        "name": "Skill Level (Week 8)",
+        "marker": {
+            "size": 8,
+            "color": "black"
+        },
+        "line": {
+            "color": "black",
+            "width": 2
+        }
+    },
+    {
+        "type": "scatterpolar",
+        "r": [
+            30,
+            36,
+            32,
+            38,
+            40,
+            42,
+            40,
+            38,
+            36,
+            34,
+            32
+        ],
+        "theta": [
+            "Problem Solving",
+            "Communication",
+            "Teamwork",
+            "Time Management",
+            "Adaptability",
+            "Creativity",
+            "Leadership",
+            "Decision Making",
+            "Critical Thinking",
+            "Negotiation",
+            "Conflict Resolution"
+        ],
+        "mode": "lines+markers",
+        "name": "Skill Level (Week 9)",
+        "marker": {
+            "size": 8,
+            "color": "grey"
+        },
+        "line": {
+            "color": "grey",
+            "width": 2
+        }
+    },
+    {
+        "type": "scatterpolar",
+        "r": [
+            28,
+            34,
+            30,
+            36,
+            38,
+            40,
+            38,
+            36,
+            34,
+            32,
+            30
+        ],
+        "theta": [
+            "Problem Solving",
+            "Communication",
+            "Teamwork",
+            "Time Management",
+            "Adaptability",
+            "Creativity",
+            "Leadership",
+            "Decision Making",
+            "Critical Thinking",
+            "Negotiation",
+            "Conflict Resolution"
+        ],
+        "mode": "lines+markers",
+        "name": "Skill Level (Week 10)",
+        "marker": {
+            "size": 8,
+            "color": "cyan"
+        },
+        "line": {
+            "color": "cyan",
+            "width": 2
+        }
+    },
+    {
+        "type": "scatterpolar",
+        "r": [
+            26,
+            32,
+            28,
+            34,
+            36,
+            38,
+            36,
+            34,
+            32,
+            30,
+            28
+        ],
+        "theta": [
+            "Problem Solving",
+            "Communication",
+            "Teamwork",
+            "Time Management",
+            "Adaptability",
+            "Creativity",
+            "Leadership",
+            "Decision Making",
+            "Critical Thinking",
+            "Negotiation",
+            "Conflict Resolution"
+        ],
+        "mode": "lines+markers",
+        "name": "Skill Level (Week 11)",
+        "marker": {
+            "size": 8,
+            "color": "magenta"
+        },
+        "line": {
+            "color": "magenta",
+            "width": 2
+        }
+    }
+]

@@ -1,0 +1,11 @@
+This radar chart showcases the relative strength of different book categories within a library's loan management system. Two series are represented: "Loan Count" (blue) and "Overdue Count" (red).
+
+The chart highlights the following trends:
+
+- **Fiction** is the most popular category with a significantly higher loan count than other categories. It also stands out as a high outlier.
+- **Children's books** have a consistently high loan count, indicating their popularity among younger readers.
+- **Biography** has the lowest overdue count, suggesting books in this category are generally returned on time. This is highlighted as a low outlier.
+- **Science and Technology** categories have a similar loan count, suggesting comparable demand.
+- **Overdue counts** generally remain lower than loan counts, indicating a reasonable return rate for most categories.
+
+This chart provides a valuable visual representation of book loan trends within the library. The presence of outliers effectively emphasizes noteworthy categories requiring further attention for optimization, such as increasing availability for high-demand categories or exploring solutions for overdue management in less popular categories.

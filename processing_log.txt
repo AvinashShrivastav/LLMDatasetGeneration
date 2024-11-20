@@ -1,0 +1,123 @@
+
+
+--- Processing started at 2024-09-12 09:39:57.755185 ---
+SUCCESS: Chart saved in folder: dataset\radar chart_1
+SUCCESS: Chart saved in folder: dataset\radar chart_2
+--- Processing finished at 2024-09-12 09:39:57.943005 ---
+
+
+--- Processing started at 2024-09-12 09:41:13.590085 ---
+SUCCESS: Chart saved in folder: dataset\radar chart_1
+SUCCESS: Chart saved in folder: dataset\radar chart_2
+ERROR: Failed to process folder dataset\radar chart_3: list indices must be integers or slices, not str
+--- Processing finished at 2024-09-12 09:41:13.795964 ---
+
+
+--- Processing started at 2024-09-12 09:48:04.715583 ---
+SUCCESS: Chart saved in folder: dataset\radar chart_1
+SUCCESS: Chart saved in folder: dataset\radar chart_2
+ERROR: Failed to process folder dataset\radar chart_3: list indices must be integers or slices, not str
+ERROR: Failed to process folder dataset\radar chart_4: list indices must be integers or slices, not str
+--- Processing finished at 2024-09-12 09:48:04.911778 ---
+
+
+--- Processing started at 2024-09-12 10:53:27.614699 ---
+SUCCESS: Chart saved in folder: dataset\radar chart_1
+SUCCESS: Chart saved in folder: dataset\radar chart_2
+ERROR: Failed to process folder dataset\radar chart_3: list indices must be integers or slices, not str
+ERROR: Failed to process folder dataset\radar chart_4: list indices must be integers or slices, not str
+--- Processing finished at 2024-09-12 10:53:28.184124 ---
+
+
+--- Processing started at 2024-09-12 11:01:35.763489 ---
+ERROR: Failed to process folder dataset\radar chart_1: string indices must be integers, not 'str'
+ERROR: Failed to process folder dataset\radar chart_2: string indices must be integers, not 'str'
+ERROR: Failed to process folder dataset\radar chart_3: 'x'
+SUCCESS: Chart saved in folder: dataset\radar chart_4
+--- Processing finished at 2024-09-12 11:01:39.287260 ---
+
+
+--- Processing started at 2024-09-12 11:04:33.298777 ---
+ERROR: Failed to process folder dataset\radar chart_1: string indices must be integers, not 'str'
+ERROR: Failed to process folder dataset\radar chart_2: string indices must be integers, not 'str'
+ERROR: Failed to process folder dataset\radar chart_3: 'x'
+SUCCESS: Chart saved in folder: dataset\radar chart_4
+ERROR: Failed to process folder dataset\radar chart_5: 
+    Invalid value of type 'builtins.str' received for the 'pattern' property of layout.grid
+        Received value: 'dot'
+
+    The 'pattern' property is an enumeration that may be specified as:
+      - One of the following enumeration values:
+            ['independent', 'coupled']
+--- Processing finished at 2024-09-12 11:04:35.138165 ---
+
+
+--- Processing started at 2024-09-12 11:10:05.437727 ---
+ERROR: Failed to process folder dataset\radar chart_1: 'z'
+ERROR: Failed to process folder dataset\radar chart_2: 'z'
+ERROR: Failed to process folder dataset\radar chart_3: list indices must be integers or slices, not str
+ERROR: Failed to process folder dataset\radar chart_4: list indices must be integers or slices, not str
+ERROR: Failed to process folder dataset\radar chart_5: list indices must be integers or slices, not str
+ERROR: Failed to process folder dataset\radar chart_6: list indices must be integers or slices, not str
+--- Processing finished at 2024-09-12 11:10:05.515248 ---
+
+
+--- Processing started at 2024-09-12 11:10:48.277833 ---
+ERROR: Failed to process folder dataset\radar chart_1: 'z'
+ERROR: Failed to process folder dataset\radar chart_2: 'z'
+ERROR: Failed to process folder dataset\radar chart_3: list indices must be integers or slices, not str
+ERROR: Failed to process folder dataset\radar chart_4: list indices must be integers or slices, not str
+ERROR: Failed to process folder dataset\radar chart_5: list indices must be integers or slices, not str
+ERROR: Failed to process folder dataset\radar chart_6: list indices must be integers or slices, not str
+--- Processing finished at 2024-09-12 11:10:48.296463 ---
+
+
+--- Processing started at 2024-09-12 11:13:56.797691 ---
+ERROR: Failed to process folder dataset\radar chart_1: 'z'
+ERROR: Failed to process folder dataset\radar chart_2: 'z'
+ERROR: Failed to process folder dataset\radar chart_3: list indices must be integers or slices, not str
+ERROR: Failed to process folder dataset\radar chart_4: list indices must be integers or slices, not str
+ERROR: Failed to process folder dataset\radar chart_5: list indices must be integers or slices, not str
+ERROR: Failed to process folder dataset\radar chart_6: list indices must be integers or slices, not str
+ERROR: Failed to process folder dataset\radar chart_7: list indices must be integers or slices, not str
+--- Processing finished at 2024-09-12 11:13:56.805965 ---
+
+
+--- Processing started at 2024-09-12 11:14:02.534922 ---
+ERROR: Failed to process folder dataset\radar chart_1: string indices must be integers, not 'str'
+ERROR: Failed to process folder dataset\radar chart_2: string indices must be integers, not 'str'
+ERROR: Failed to process folder dataset\radar chart_3: 'x'
+SUCCESS: Chart saved in folder: dataset\radar chart_4
+ERROR: Failed to process folder dataset\radar chart_5: 
+    Invalid value of type 'builtins.str' received for the 'pattern' property of layout.grid
+        Received value: 'dot'
+
+    The 'pattern' property is an enumeration that may be specified as:
+      - One of the following enumeration values:
+            ['independent', 'coupled']
+ERROR: Failed to process folder dataset\radar chart_6: 'x'
+ERROR: Failed to process folder dataset\radar chart_7: 'z'
+--- Processing finished at 2024-09-12 11:14:04.314673 ---
+
+
+--- Processing started at 2024-09-12 11:33:58.692999 ---
+ERROR: Failed to process folder dataset\radar chart_1: 'z'
+ERROR: Failed to process folder dataset\radar chart_2: 'z'
+ERROR: Failed to process folder dataset\radar chart_3: list indices must be integers or slices, not str
+ERROR: Failed to process folder dataset\radar chart_4: list indices must be integers or slices, not str
+ERROR: Failed to process folder dataset\radar chart_5: list indices must be integers or slices, not str
+ERROR: Failed to process folder dataset\radar chart_6: list indices must be integers or slices, not str
+ERROR: Failed to process folder dataset\radar chart_7: list indices must be integers or slices, not str
+--- Processing finished at 2024-09-12 11:33:58.754594 ---
+
+
+--- Processing started at 2024-09-12 12:14:56.639931 ---
+ERROR: Failed to process folder dataset\radar chart_1: 'z'
+ERROR: Failed to process folder dataset\radar chart_2: 'z'
+ERROR: Failed to process folder dataset\radar chart_3: list indices must be integers or slices, not str
+ERROR: Failed to process folder dataset\radar chart_4: list indices must be integers or slices, not str
+ERROR: Failed to process folder dataset\radar chart_5: list indices must be integers or slices, not str
+ERROR: Failed to process folder dataset\radar chart_6: list indices must be integers or slices, not str
+ERROR: Failed to process folder dataset\radar chart_7: list indices must be integers or slices, not str
+ERROR: Failed to process folder dataset\radar chart_8: list indices must be integers or slices, not str
+--- Processing finished at 2024-09-12 12:14:56.651450 ---

@@ -1,0 +1,56 @@
+[
+    {
+        "type": "scatterpolar",
+        "r": [
+            12,
+            18,
+            16,
+            14,
+            22
+        ],
+        "theta": [
+            "Financial Stability",
+            "Health & Wellness",
+            "Career Growth",
+            "Personal Relationships",
+            "Skill Development"
+        ],
+        "mode": "lines+markers",
+        "name": "Current Progress",
+        "marker": {
+            "size": 8,
+            "color": "blue"
+        },
+        "line": {
+            "color": "blue",
+            "width": 2
+        }
+    },
+    {
+        "type": "scatterpolar",
+        "r": [
+            10,
+            15,
+            13,
+            17,
+            20
+        ],
+        "theta": [
+            "Financial Stability",
+            "Health & Wellness",
+            "Career Growth",
+            "Personal Relationships",
+            "Skill Development"
+        ],
+        "mode": "lines+markers",
+        "name": "Goal Targets",
+        "marker": {
+            "size": 8,
+            "color": "red"
+        },
+        "line": {
+            "color": "red",
+            "width": 2
+        }
+    }
+]

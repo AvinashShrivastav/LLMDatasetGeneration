@@ -1,0 +1,45 @@
+{
+    "title": {
+        "text": "Family Activity Planner - Attendance Trends",
+        "font": {
+            "size": 18
+        }
+    },
+    "xaxis": {
+        "title": "Activity",
+        "tickangle": -45
+    },
+    "yaxis": {
+        "title": "Attendance"
+    },
+    "margin": {
+        "t": 50,
+        "b": 50,
+        "l": 50,
+        "r": 50
+    },
+    "annotations": [
+        {
+            "x": "Camping Trip",
+            "y": 25,
+            "xref": "x",
+            "yref": "y",
+            "text": "Outlier: Highest Attendance",
+            "showarrow": true,
+            "arrowhead": 7,
+            "ax": 0,
+            "ay": -40
+        },
+        {
+            "x": "Board Game Night",
+            "y": 8,
+            "xref": "x",
+            "yref": "y",
+            "text": "Outlier: Lowest Attendance",
+            "showarrow": true,
+            "arrowhead": 7,
+            "ax": 0,
+            "ay": 40
+        }
+    ]
+}

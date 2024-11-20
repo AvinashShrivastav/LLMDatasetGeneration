@@ -1,0 +1,19 @@
+Label,Parent,Value
+Social Media,,100
+Facebook,Social Media,35
+Instagram,Social Media,25
+Twitter,Social Media,20
+LinkedIn,Social Media,15
+YouTube,Social Media,5
+Content,Facebook,25
+Engagement,Facebook,10
+Ads,Facebook,5
+Stories,Instagram,15
+Posts,Instagram,10
+Live,Instagram,5
+Tweets,Twitter,10
+Retweets,Twitter,5
+Articles,Twitter,5
+Updates,LinkedIn,10
+Groups,LinkedIn,5
+Videos,YouTube,5

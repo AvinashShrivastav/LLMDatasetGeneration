@@ -1,0 +1,78 @@
+{
+    "title": {
+        "text": "Meal Planning Gantt Chart",
+        "font": {
+            "size": 24,
+            "family": "Arial"
+        }
+    },
+    "xaxis": {
+        "title": {
+            "text": "Meal Type",
+            "font": {
+                "size": 16,
+                "family": "Arial"
+            }
+        },
+        "tickangle": -45,
+        "tickfont": {
+            "size": 14,
+            "family": "Arial"
+        }
+    },
+    "yaxis": {
+        "title": {
+            "text": "Day of the Week",
+            "font": {
+                "size": 16,
+                "family": "Arial"
+            }
+        },
+        "tickfont": {
+            "size": 14,
+            "family": "Arial"
+        }
+    },
+    "annotations": [
+        {
+            "x": "Breakfast",
+            "y": "Monday",
+            "xref": "x",
+            "yref": "y",
+            "text": "Tom's Breakfast",
+            "showarrow": true,
+            "arrowhead": 7,
+            "ax": 20,
+            "ay": -30
+        },
+        {
+            "x": "Lunch",
+            "y": "Tuesday",
+            "xref": "x",
+            "yref": "y",
+            "text": "Alice's Lunch",
+            "showarrow": true,
+            "arrowhead": 7,
+            "ax": 20,
+            "ay": -30
+        },
+        {
+            "x": "Dinner",
+            "y": "Wednesday",
+            "xref": "x",
+            "yref": "y",
+            "text": "Bob's Dinner",
+            "showarrow": true,
+            "arrowhead": 7,
+            "ax": 20,
+            "ay": -30
+        }
+    ],
+    "margin": {
+        "l": 50,
+        "r": 50,
+        "b": 50,
+        "t": 100
+    },
+    "showlegend": true
+}

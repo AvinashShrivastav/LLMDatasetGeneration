@@ -1,0 +1,71 @@
+{
+    "polar": {
+        "radialaxis": {
+            "visible": true,
+            "range": [
+                0,
+                35
+            ],
+            "title": {
+                "text": "Progress Score"
+            }
+        },
+        "angularaxis": {
+            "tickmode": "array",
+            "tickvals": [
+                "Cardio",
+                "Strength",
+                "Flexibility",
+                "Endurance",
+                "Nutrition",
+                "Sleep",
+                "Hydration",
+                "Mental Health"
+            ],
+            "ticktext": [
+                "Cardio",
+                "Strength",
+                "Flexibility",
+                "Endurance",
+                "Nutrition",
+                "Sleep",
+                "Hydration",
+                "Mental Health"
+            ]
+        }
+    },
+    "title": {
+        "text": "Exercise Routine Effectiveness Over Four Weeks",
+        "font": {
+            "size": 18
+        }
+    },
+    "legend": {
+        "x": 0.8,
+        "y": 0.8
+    },
+    "annotations": [
+        {
+            "x": "Cardio",
+            "y": 12,
+            "xref": "x",
+            "yref": "y",
+            "text": "Week 3 Low",
+            "showarrow": true,
+            "arrowhead": 7,
+            "ax": 0,
+            "ay": -40
+        },
+        {
+            "x": "Nutrition",
+            "y": 30,
+            "xref": "x",
+            "yref": "y",
+            "text": "Week 4 High",
+            "showarrow": true,
+            "arrowhead": 7,
+            "ax": 0,
+            "ay": -40
+        }
+    ]
+}

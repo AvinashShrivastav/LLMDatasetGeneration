@@ -1,0 +1,126 @@
+[
+    {
+        "type": "scatter",
+        "x": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+        ],
+        "y": [
+            50,
+            60,
+            70,
+            80,
+            75,
+            85,
+            90
+        ],
+        "mode": "lines+markers",
+        "name": "Squats",
+        "marker": {
+            "size": 10,
+            "color": "blue"
+        },
+        "line": {
+            "color": "blue",
+            "width": 2
+        }
+    },
+    {
+        "type": "scatter",
+        "x": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+        ],
+        "y": [
+            40,
+            45,
+            50,
+            55,
+            60,
+            55,
+            65
+        ],
+        "mode": "lines+markers",
+        "name": "Push-ups",
+        "marker": {
+            "size": 10,
+            "color": "red"
+        },
+        "line": {
+            "color": "red",
+            "width": 2
+        }
+    },
+    {
+        "type": "scatter",
+        "x": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+        ],
+        "y": [
+            30,
+            35,
+            40,
+            45,
+            50,
+            45,
+            55
+        ],
+        "mode": "lines+markers",
+        "name": "Pull-ups",
+        "marker": {
+            "size": 10,
+            "color": "green"
+        },
+        "line": {
+            "color": "green",
+            "width": 2
+        }
+    },
+    {
+        "type": "scatter",
+        "x": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+        ],
+        "y": [
+            20,
+            25,
+            30,
+            35,
+            40,
+            35,
+            45
+        ],
+        "mode": "lines+markers",
+        "name": "Deadlifts",
+        "marker": {
+            "size": 10,
+            "color": "purple"
+        },
+        "line": {
+            "color": "purple",
+            "width": 2
+        }
+    }
+]

@@ -1,0 +1,126 @@
+[
+    {
+        "type": "scatterpolar",
+        "r": [
+            1200,
+            1500,
+            1800,
+            1200,
+            1000,
+            800,
+            1400
+        ],
+        "theta": [
+            "Rent",
+            "Food",
+            "Transportation",
+            "Entertainment",
+            "Utilities",
+            "Healthcare",
+            "Other"
+        ],
+        "mode": "lines+markers",
+        "name": "Month 1",
+        "marker": {
+            "size": 8,
+            "color": "blue"
+        },
+        "line": {
+            "color": "blue",
+            "width": 2
+        }
+    },
+    {
+        "type": "scatterpolar",
+        "r": [
+            1100,
+            1300,
+            1700,
+            1400,
+            900,
+            900,
+            1300
+        ],
+        "theta": [
+            "Rent",
+            "Food",
+            "Transportation",
+            "Entertainment",
+            "Utilities",
+            "Healthcare",
+            "Other"
+        ],
+        "mode": "lines+markers",
+        "name": "Month 2",
+        "marker": {
+            "size": 8,
+            "color": "red"
+        },
+        "line": {
+            "color": "red",
+            "width": 2
+        }
+    },
+    {
+        "type": "scatterpolar",
+        "r": [
+            1000,
+            1400,
+            1900,
+            1500,
+            1100,
+            1000,
+            1200
+        ],
+        "theta": [
+            "Rent",
+            "Food",
+            "Transportation",
+            "Entertainment",
+            "Utilities",
+            "Healthcare",
+            "Other"
+        ],
+        "mode": "lines+markers",
+        "name": "Month 3",
+        "marker": {
+            "size": 8,
+            "color": "green"
+        },
+        "line": {
+            "color": "green",
+            "width": 2
+        }
+    },
+    {
+        "type": "scatterpolar",
+        "r": [
+            900,
+            1200,
+            1600,
+            1300,
+            800,
+            700,
+            1000
+        ],
+        "theta": [
+            "Rent",
+            "Food",
+            "Transportation",
+            "Entertainment",
+            "Utilities",
+            "Healthcare",
+            "Other"
+        ],
+        "mode": "lines+markers",
+        "name": "Month 4",
+        "marker": {
+            "size": 8,
+            "color": "orange"
+        },
+        "line": {
+            "color": "orange",
+            "width": 2
+        }
+    }
+]

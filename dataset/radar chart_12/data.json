@@ -1,0 +1,134 @@
+[
+    {
+        "type": "scatterpolar",
+        "r": [
+            15,
+            20,
+            18,
+            12,
+            25,
+            22,
+            16,
+            14
+        ],
+        "theta": [
+            "Cardio",
+            "Strength",
+            "Flexibility",
+            "Endurance",
+            "Nutrition",
+            "Sleep",
+            "Hydration",
+            "Mental Health"
+        ],
+        "mode": "lines+markers",
+        "name": "Week 1",
+        "marker": {
+            "size": 8,
+            "color": "blue"
+        },
+        "line": {
+            "color": "blue",
+            "width": 2
+        }
+    },
+    {
+        "type": "scatterpolar",
+        "r": [
+            18,
+            22,
+            20,
+            15,
+            28,
+            25,
+            18,
+            16
+        ],
+        "theta": [
+            "Cardio",
+            "Strength",
+            "Flexibility",
+            "Endurance",
+            "Nutrition",
+            "Sleep",
+            "Hydration",
+            "Mental Health"
+        ],
+        "mode": "lines+markers",
+        "name": "Week 2",
+        "marker": {
+            "size": 8,
+            "color": "green"
+        },
+        "line": {
+            "color": "green",
+            "width": 2
+        }
+    },
+    {
+        "type": "scatterpolar",
+        "r": [
+            16,
+            18,
+            15,
+            10,
+            20,
+            18,
+            12,
+            10
+        ],
+        "theta": [
+            "Cardio",
+            "Strength",
+            "Flexibility",
+            "Endurance",
+            "Nutrition",
+            "Sleep",
+            "Hydration",
+            "Mental Health"
+        ],
+        "mode": "lines+markers",
+        "name": "Week 3",
+        "marker": {
+            "size": 8,
+            "color": "red"
+        },
+        "line": {
+            "color": "red",
+            "width": 2
+        }
+    },
+    {
+        "type": "scatterpolar",
+        "r": [
+            20,
+            25,
+            22,
+            18,
+            30,
+            28,
+            20,
+            18
+        ],
+        "theta": [
+            "Cardio",
+            "Strength",
+            "Flexibility",
+            "Endurance",
+            "Nutrition",
+            "Sleep",
+            "Hydration",
+            "Mental Health"
+        ],
+        "mode": "lines+markers",
+        "name": "Week 4",
+        "marker": {
+            "size": 8,
+            "color": "purple"
+        },
+        "line": {
+            "color": "purple",
+            "width": 2
+        }
+    }
+]

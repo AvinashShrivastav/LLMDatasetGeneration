@@ -1,0 +1,51 @@
+{
+    "title": {
+        "text": "Emergency Preparedness Checklist: Preparedness Level Assessment",
+        "font": {
+            "size": 24
+        }
+    },
+    "xaxis": {
+        "title": "Preparedness Category",
+        "tickangle": -45
+    },
+    "yaxis": {
+        "title": "Preparedness Level (0-100)",
+        "range": [
+            0,
+            100
+        ]
+    },
+    "legend": {
+        "orientation": "h",
+        "xanchor": "center",
+        "yanchor": "top",
+        "x": 0.5,
+        "y": 1.1
+    },
+    "annotations": [
+        {
+            "x": "Satellite Phone",
+            "y": 5,
+            "xref": "x",
+            "yref": "y",
+            "text": "Outlier",
+            "showarrow": true,
+            "arrowhead": 7,
+            "ax": 0,
+            "ay": -40
+        }
+    ],
+    "margin": {
+        "l": 100,
+        "r": 100,
+        "b": 100,
+        "t": 100,
+        "pad": 4
+    },
+    "grid": {
+        "rows": 4,
+        "columns": 4,
+        "pattern": "solid"
+    }
+}

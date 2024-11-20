@@ -1,0 +1,60 @@
+[
+    {
+        "type": "scatterpolar",
+        "r": [
+            15,
+            18,
+            20,
+            16,
+            14,
+            12
+        ],
+        "theta": [
+            "Genealogy",
+            "Birth Records",
+            "Immigration Records",
+            "Census Data",
+            "Military Records",
+            "Land Records"
+        ],
+        "mode": "lines+markers",
+        "name": "Research Progress",
+        "marker": {
+            "size": 8,
+            "color": "blue"
+        },
+        "line": {
+            "color": "blue",
+            "width": 2
+        }
+    },
+    {
+        "type": "scatterpolar",
+        "r": [
+            22,
+            25,
+            18,
+            21,
+            19,
+            20
+        ],
+        "theta": [
+            "Genealogy",
+            "Birth Records",
+            "Immigration Records",
+            "Census Data",
+            "Military Records",
+            "Land Records"
+        ],
+        "mode": "lines+markers",
+        "name": "Expected Progress",
+        "marker": {
+            "size": 8,
+            "color": "red"
+        },
+        "line": {
+            "color": "red",
+            "width": 2
+        }
+    }
+]

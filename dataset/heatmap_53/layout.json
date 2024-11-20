@@ -1,0 +1,67 @@
+{
+    "title": {
+        "text": "Daily Water Intake Heatmap (Liters)",
+        "font": {
+            "size": 18
+        }
+    },
+    "xaxis": {
+        "title": "Day of the Week",
+        "tickvals": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+        ],
+        "ticktext": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat",
+            "Sun"
+        ]
+    },
+    "yaxis": {
+        "title": "Day"
+    },
+    "coloraxis": {
+        "colorbar": {
+            "title": "Water Intake (L)"
+        }
+    },
+    "annotations": [
+        {
+            "x": "Thursday",
+            "y": "Day 4",
+            "xref": "x",
+            "yref": "y",
+            "text": "Outlier: High Intake",
+            "showarrow": true,
+            "arrowhead": 7,
+            "ax": 0,
+            "ay": -40
+        },
+        {
+            "x": "Sunday",
+            "y": "Day 1",
+            "xref": "x",
+            "yref": "y",
+            "text": "Outlier: Low Intake",
+            "showarrow": true,
+            "arrowhead": 7,
+            "ax": 0,
+            "ay": 40
+        }
+    ],
+    "margin": {
+        "l": 50,
+        "r": 50,
+        "b": 50,
+        "t": 100
+    }
+}

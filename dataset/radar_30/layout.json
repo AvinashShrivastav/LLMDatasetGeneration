@@ -1,0 +1,83 @@
+{
+    "polar": {
+        "radialaxis": {
+            "visible": true,
+            "range": [
+                0,
+                25
+            ],
+            "title": {
+                "text": "Hours per Week"
+            }
+        },
+        "angularaxis": {
+            "tickmode": "array",
+            "tickvals": [
+                "Work Hours",
+                "Sleep",
+                "Exercise",
+                "Social Time",
+                "Hobbies",
+                "Family Time",
+                "Personal Development"
+            ],
+            "ticktext": [
+                "Work Hours",
+                "Sleep",
+                "Exercise",
+                "Social Time",
+                "Hobbies",
+                "Family Time",
+                "Personal Development"
+            ]
+        }
+    },
+    "title": {
+        "text": "Work-Life Balance Tracking: Weekly Progress",
+        "font": {
+            "size": 18
+        }
+    },
+    "legend": {
+        "orientation": "h",
+        "x": 0.5,
+        "y": -0.2,
+        "xanchor": "center",
+        "yanchor": "top"
+    },
+    "annotations": [
+        {
+            "x": 1.1,
+            "y": 1.1,
+            "xref": "paper",
+            "yref": "paper",
+            "text": "Week 1 outlier: High Family Time",
+            "showarrow": true,
+            "arrowhead": 7,
+            "ax": 0,
+            "ay": -40
+        },
+        {
+            "x": 1.1,
+            "y": 1.2,
+            "xref": "paper",
+            "yref": "paper",
+            "text": "Week 2 outlier: High Social Time",
+            "showarrow": true,
+            "arrowhead": 7,
+            "ax": 0,
+            "ay": -40
+        },
+        {
+            "x": 1.1,
+            "y": 1.3,
+            "xref": "paper",
+            "yref": "paper",
+            "text": "Week 4 outlier: Low Hobbies",
+            "showarrow": true,
+            "arrowhead": 7,
+            "ax": 0,
+            "ay": -40
+        }
+    ]
+}

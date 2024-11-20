@@ -1,0 +1,50 @@
+{
+    "polar": {
+        "radialaxis": {
+            "visible": true,
+            "range": [
+                0,
+                35
+            ],
+            "title": {
+                "text": "Spending (in USD)"
+            }
+        },
+        "angularaxis": {
+            "tickmode": "array",
+            "tickvals": [
+                "Accommodation",
+                "Transportation",
+                "Food",
+                "Activities",
+                "Entertainment"
+            ],
+            "ticktext": [
+                "Accommodation",
+                "Transportation",
+                "Food",
+                "Activities",
+                "Entertainment"
+            ]
+        }
+    },
+    "title": {
+        "text": "Vacation Spending Analysis",
+        "font": {
+            "size": 18
+        }
+    },
+    "annotations": [
+        {
+            "xref": "paper",
+            "yref": "paper",
+            "x": 0.5,
+            "y": 0.8,
+            "text": "Outlier: Activities cost exceeded budget",
+            "showarrow": true,
+            "arrowhead": 7,
+            "ax": 0,
+            "ay": -40
+        }
+    ]
+}

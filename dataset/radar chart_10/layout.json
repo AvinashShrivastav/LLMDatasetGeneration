@@ -1,0 +1,64 @@
+{
+    "polar": {
+        "radialaxis": {
+            "visible": true,
+            "range": [
+                0,
+                45
+            ],
+            "title": {
+                "text": "Time Spent (Minutes)"
+            }
+        },
+        "angularaxis": {
+            "tickmode": "array",
+            "tickvals": [
+                "Watering",
+                "Fertilizing",
+                "Weeding",
+                "Pruning",
+                "Pest Control",
+                "Harvesting",
+                "Composting",
+                "Soil Testing",
+                "Seed Starting",
+                "Planting",
+                "Mulching",
+                "Winterizing"
+            ],
+            "ticktext": [
+                "Watering",
+                "Fertilizing",
+                "Weeding",
+                "Pruning",
+                "Pest Control",
+                "Harvesting",
+                "Composting",
+                "Soil Testing",
+                "Seed Starting",
+                "Planting",
+                "Mulching",
+                "Winterizing"
+            ]
+        }
+    },
+    "title": {
+        "text": "Gardening Schedule: Time Spent on Tasks",
+        "font": {
+            "size": 18
+        }
+    },
+    "annotations": [
+        {
+            "x": "Pest Control",
+            "y": 40,
+            "xref": "x",
+            "yref": "y",
+            "text": "Pest Control Peak in Week 3",
+            "showarrow": true,
+            "arrowhead": 7,
+            "ax": 0,
+            "ay": -40
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "title": {
+        "text": "Daily Step Count - OHLC Chart",
+        "font": {
+            "size": 18
+        }
+    },
+    "xaxis": {
+        "title": "Date",
+        "type": "category",
+        "tickangle": -45
+    },
+    "yaxis": {
+        "title": "Step Count",
+        "rangemode": "tozero"
+    },
+    "annotations": [
+        {
+            "x": "2024-09-15",
+            "y": 10800,
+            "xref": "x",
+            "yref": "y",
+            "text": "Outlier",
+            "showarrow": true,
+            "arrowhead": 7,
+            "ax": 0,
+            "ay": -40
+        }
+    ],
+    "margin": {
+        "l": 50,
+        "r": 50,
+        "b": 100,
+        "t": 100
+    },
+    "shapes": [
+        {
+            "type": "line",
+            "x0": "2024-09-10",
+            "y0": 9600,
+            "x1": "2024-09-15",
+            "y1": 9600,
+            "line": {
+                "color": "rgba(0, 0, 0, 0.5)",
+                "width": 2
+            }
+        }
+    ]
+}

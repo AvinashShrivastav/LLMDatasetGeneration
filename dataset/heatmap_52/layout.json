@@ -1,0 +1,46 @@
+{
+    "title": {
+        "text": "Daily Water Intake Over 7 Days",
+        "font": {
+            "size": 20
+        }
+    },
+    "xaxis": {
+        "title": "Day of the Week",
+        "tickangle": -45
+    },
+    "yaxis": {
+        "title": "Day Number",
+        "autorange": "reversed"
+    },
+    "coloraxis": {
+        "colorbar": {
+            "title": "Liters Consumed"
+        },
+        "colorscale": "Viridis"
+    },
+    "annotations": [
+        {
+            "x": "Saturday",
+            "y": "Day 4",
+            "xref": "x",
+            "yref": "y",
+            "text": "Highest intake",
+            "showarrow": true,
+            "arrowhead": 7,
+            "ax": 0,
+            "ay": -40
+        },
+        {
+            "x": "Monday",
+            "y": "Day 7",
+            "xref": "x",
+            "yref": "y",
+            "text": "Lowest intake",
+            "showarrow": true,
+            "arrowhead": 7,
+            "ax": 0,
+            "ay": 40
+        }
+    ]
+}

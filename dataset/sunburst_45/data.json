@@ -1,0 +1,92 @@
+[
+    {
+        "label": "Social Media",
+        "parent": "",
+        "value": 100
+    },
+    {
+        "label": "Facebook",
+        "parent": "Social Media",
+        "value": 35
+    },
+    {
+        "label": "Instagram",
+        "parent": "Social Media",
+        "value": 25
+    },
+    {
+        "label": "Twitter",
+        "parent": "Social Media",
+        "value": 20
+    },
+    {
+        "label": "LinkedIn",
+        "parent": "Social Media",
+        "value": 15
+    },
+    {
+        "label": "YouTube",
+        "parent": "Social Media",
+        "value": 5
+    },
+    {
+        "label": "Content",
+        "parent": "Facebook",
+        "value": 25
+    },
+    {
+        "label": "Engagement",
+        "parent": "Facebook",
+        "value": 10
+    },
+    {
+        "label": "Ads",
+        "parent": "Facebook",
+        "value": 5
+    },
+    {
+        "label": "Stories",
+        "parent": "Instagram",
+        "value": 15
+    },
+    {
+        "label": "Posts",
+        "parent": "Instagram",
+        "value": 10
+    },
+    {
+        "label": "Live",
+        "parent": "Instagram",
+        "value": 5
+    },
+    {
+        "label": "Tweets",
+        "parent": "Twitter",
+        "value": 10
+    },
+    {
+        "label": "Retweets",
+        "parent": "Twitter",
+        "value": 5
+    },
+    {
+        "label": "Articles",
+        "parent": "Twitter",
+        "value": 5
+    },
+    {
+        "label": "Updates",
+        "parent": "LinkedIn",
+        "value": 10
+    },
+    {
+        "label": "Groups",
+        "parent": "LinkedIn",
+        "value": 5
+    },
+    {
+        "label": "Videos",
+        "parent": "YouTube",
+        "value": 5
+    }
+]

@@ -1,0 +1,57 @@
+{
+    "title": {
+        "text": "Car Maintenance Records Heatmap",
+        "font": {
+            "size": 24
+        }
+    },
+    "xaxis": {
+        "title": {
+            "text": "Maintenance Tasks",
+            "font": {
+                "size": 18
+            }
+        }
+    },
+    "yaxis": {
+        "title": {
+            "text": "Month",
+            "font": {
+                "size": 18
+            }
+        }
+    },
+    "annotations": [
+        {
+            "x": "Engine Oil Change",
+            "y": "December",
+            "text": "High Maintenance",
+            "showarrow": true,
+            "arrowhead": 7,
+            "ax": 0,
+            "ay": -40
+        },
+        {
+            "x": "Coolant Flush",
+            "y": "June",
+            "text": "Low Maintenance",
+            "showarrow": true,
+            "arrowhead": 7,
+            "ax": 0,
+            "ay": -40
+        }
+    ],
+    "margin": {
+        "l": 150,
+        "r": 150,
+        "b": 100,
+        "t": 100,
+        "pad": 4
+    },
+    "grid": {
+        "rows": 10,
+        "columns": 10,
+        "pattern": "dot",
+        "opacity": 0.5
+    }
+}

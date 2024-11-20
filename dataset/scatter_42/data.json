@@ -1,0 +1,38 @@
+[
+    {
+        "Activity": "Family Picnic",
+        "Attendance": 10
+    },
+    {
+        "Activity": "Movie Night",
+        "Attendance": 12
+    },
+    {
+        "Activity": "Theme Park Trip",
+        "Attendance": 15
+    },
+    {
+        "Activity": "Board Game Night",
+        "Attendance": 8
+    },
+    {
+        "Activity": "Cooking Class",
+        "Attendance": 18
+    },
+    {
+        "Activity": "Hiking Adventure",
+        "Attendance": 16
+    },
+    {
+        "Activity": "Museum Visit",
+        "Attendance": 9
+    },
+    {
+        "Activity": "Camping Trip",
+        "Attendance": 25
+    },
+    {
+        "Activity": "Beach Day",
+        "Attendance": 20
+    }
+]

@@ -1,0 +1,7 @@
+This radar chart showcases the progress made in researching different aspects of a family tree. The "Research Progress" series represents the current achievements, while the "Expected Progress" series shows the anticipated level of research completion for each category.
+
+The chart exhibits mean reversion in data, where the progress tends to move back towards the average.  For instance, Birth Records research appears to be significantly ahead of expectations. This could indicate a dedicated focus on this specific area or the availability of readily accessible resources.
+
+An outlier is observed in Birth Records, where the research progress surpasses the expected level by a notable margin. This might suggest that the researcher has encountered particularly fruitful sources or made remarkable strides in this specific area.
+
+Overall, the chart provides a comprehensive overview of the research progress across various categories, highlighting areas where further effort is needed and areas where success has been achieved.

@@ -1,0 +1,71 @@
+{
+    "polar": {
+        "radialaxis": {
+            "visible": true,
+            "range": [
+                0,
+                25
+            ],
+            "title": {
+                "text": "Preparedness Score (0-25)"
+            }
+        },
+        "angularaxis": {
+            "tickmode": "array",
+            "tickvals": [
+                "Communication",
+                "Evacuation Plan",
+                "First Aid",
+                "Food & Water",
+                "Shelter",
+                "Emergency Kit",
+                "Security",
+                "Financial Plan",
+                "Insurance"
+            ],
+            "ticktext": [
+                "Communication",
+                "Evacuation Plan",
+                "First Aid",
+                "Food & Water",
+                "Shelter",
+                "Emergency Kit",
+                "Security",
+                "Financial Plan",
+                "Insurance"
+            ]
+        }
+    },
+    "title": {
+        "text": "Emergency Preparedness Checklist - Radar Chart",
+        "font": {
+            "size": 18
+        }
+    },
+    "annotations": [
+        {
+            "x": 0.5,
+            "y": 0.5,
+            "xref": "paper",
+            "yref": "paper",
+            "text": "Overall Preparedness Level",
+            "showarrow": false
+        },
+        {
+            "x": 0.9,
+            "y": 0.2,
+            "xref": "paper",
+            "yref": "paper",
+            "text": "Needs Improvement",
+            "showarrow": false
+        },
+        {
+            "x": 0.1,
+            "y": 0.8,
+            "xref": "paper",
+            "yref": "paper",
+            "text": "Highly Prepared",
+            "showarrow": false
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+[
+    {
+        "Store": "Store A",
+        "Milk": 3.25,
+        "Eggs": 2.99,
+        "Bread": 3.5,
+        "Cheese": 7.99,
+        "Yogurt": 4.49,
+        "Cereal": 4.99,
+        "Fruit": 5.25,
+        "Vegetables": 4.5,
+        "Meat": 15.99
+    },
+    {
+        "Store": "Store B",
+        "Milk": 3.0,
+        "Eggs": 2.79,
+        "Bread": 3.25,
+        "Cheese": 7.49,
+        "Yogurt": 4.19,
+        "Cereal": 4.79,
+        "Fruit": 4.99,
+        "Vegetables": 4.25,
+        "Meat": 14.99
+    },
+    {
+        "Store": "Store C",
+        "Milk": 3.5,
+        "Eggs": 3.29,
+        "Bread": 3.75,
+        "Cheese": 8.49,
+        "Yogurt": 4.99,
+        "Cereal": 5.49,
+        "Fruit": 5.75,
+        "Vegetables": 4.75,
+        "Meat": 16.99
+    },
+    {
+        "Store": "Store D",
+        "Milk": 2.75,
+        "Eggs": 2.59,
+        "Bread": 3.0,
+        "Cheese": 6.99,
+        "Yogurt": 3.99,
+        "Cereal": 4.49,
+        "Fruit": 4.5,
+        "Vegetables": 3.75,
+        "Meat": 13.99
+    },
+    {
+        "Store": "Store E",
+        "Milk": 3.75,
+        "Eggs": 3.49,
+        "Bread": 4.0,
+        "Cheese": 8.99,
+        "Yogurt": 5.49,
+        "Cereal": 5.99,
+        "Fruit": 6.25,
+        "Vegetables": 5.25,
+        "Meat": 18.99
+    }
+]

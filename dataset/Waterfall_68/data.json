@@ -1,0 +1,37 @@
+[
+    {
+        "x": "Order Placed",
+        "y": 1200,
+        "measure": "relative"
+    },
+    {
+        "x": "Order Processing",
+        "y": -100,
+        "measure": "relative"
+    },
+    {
+        "x": "Shipping Delay",
+        "y": -300,
+        "measure": "relative"
+    },
+    {
+        "x": "Delivery",
+        "y": 80,
+        "measure": "relative"
+    },
+    {
+        "x": "Returns",
+        "y": -200,
+        "measure": "relative"
+    },
+    {
+        "x": "Customer Support",
+        "y": -50,
+        "measure": "relative"
+    },
+    {
+        "x": "Total Revenue",
+        "y": 530,
+        "measure": "total"
+    }
+]
